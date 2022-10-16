@@ -40,6 +40,6 @@ Checkout [`reviews.toml`](reviews.toml) to see everything.
 
 ## Usage
 
-This data can be used to quickly train a language model for STT applications (such as [Assistant](https://gitlab.com/waser-technologies/technologies/assistant)). It can also be use to train a classifier to automate even more the process.
+This data can be used to quickly train a language model for STT applications (such as [Assistant](https://gitlab.com/waser-technologies/technologies/assistant)). It can also be used to train a classifier to automate even more the process.
 
 Using the Training Wizard, you can pull requests automatically once you are done validating your data.
