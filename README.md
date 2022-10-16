@@ -34,7 +34,7 @@ true = 0
 false = 1
 ```
 
-To find if any sentence if valid, get the `bool` with the highest count.
+To find if any sentence is valid, get the `bool` with the highest count.
 
 Checkout [`reviews.toml`](reviews.toml) to see everything.
 
