@@ -9,7 +9,7 @@ Using the [Training Wizard for STT](https://gitlab.com/waser-technologies/models
 
 User is presented some sentences from the NLU data.
 
-His role is to determine if the sentences can be use to train a language model for STT.
+His role is to determine if the sentences can be used to train a language model for STT.
 
 If a sentence is usable, then it is accepted (`true += 1`).
 Else it is rejected (`false =+ 1`).
