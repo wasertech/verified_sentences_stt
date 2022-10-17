@@ -24,19 +24,24 @@ They look like so.
 ["can you lookup something for me please"]
 true = 1
 false = 0
+lang = ["en",]
 
 ["answer me this"]
 true = 1
 false = 0
+lang = ["en",]
 
 [ddgr]
 true = 0
 false = 1
+lang = ["en",]
 ```
 
 To find if any sentence is valid, get the `bool` with the highest count.
 
 Checkout [`reviews.toml`](reviews.toml) to see everything.
+
+`lang` is a list of languages the sentences has been or not verified
 
 ## Usage
 
