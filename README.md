@@ -37,7 +37,7 @@ false = 1
 lang = ["en",]
 ```
 
-To find if any sentence is valid, get the `bool` with the highest count.
+To find if any sentence is valid, get the boolean with the highest count.
 
 Checkout [`reviews.toml`](reviews.toml) to see everything.
 
