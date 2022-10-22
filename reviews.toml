@@ -14363,11 +14363,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["are you a bot"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["are you a chatbot"]
 true = 1
 false = 0
