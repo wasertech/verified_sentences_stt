@@ -1293,7 +1293,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to i'mpress a girl"]
+["how to impress a girl"]
 true = 1
 false = 0
 lang = ["en",]
@@ -8413,14 +8413,13 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i want a great bot to i'mpress my boss"]
+["i want a great bot to impress my boss"]
 true = 1
 false = 0
 lang = ["en",]
 
 ["i want to build a bot"]
 true = 1
-false = 0
 lang = ["en",]
 
 ["i want to build a bot about me"]
