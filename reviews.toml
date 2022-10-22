@@ -188,7 +188,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it"]
+["what time is it"]
 true = 1
 false = 0
 lang = ["en",]
@@ -313,7 +313,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it in california"]
+["what time is it in california"]
 true = 1
 false = 0
 lang = ["en",]
@@ -378,7 +378,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what ti'me is it in london"]
+["what time is it in london"]
 true = 1
 false = 0
 lang = ["en",]
@@ -453,7 +453,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is the superbowl"]
+["what time is the superbowl"]
 true = 1
 false = 0
 lang = ["en",]
@@ -463,7 +463,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what ti'me is sunset"]
+["what time is sunset"]
 true = 1
 false = 0
 lang = ["en",]
@@ -478,7 +478,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when is daylight saving ti'me"]
+["when is daylight saving time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -503,7 +503,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it in australia"]
+["what time is it in australia"]
 true = 1
 false = 0
 lang = ["en",]
@@ -528,7 +528,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it in hawaii"]
+["what time is it in hawaii"]
 true = 1
 false = 0
 lang = ["en",]
@@ -558,7 +558,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how many centi'meters in an inch"]
+["how many centimeters in an inch"]
 true = 1
 false = 0
 lang = ["en",]
@@ -583,7 +583,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is the ti'me"]
+["what is the time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -883,7 +883,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when does the ti'me change"]
+["when does the time change"]
 true = 1
 false = 0
 lang = ["en",]
@@ -908,7 +908,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it in japan"]
+["what time is it in japan"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1113,7 +1113,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it in germany"]
+["what time is it in germany"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1158,7 +1158,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it in florida"]
+["what time is it in florida"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1268,7 +1268,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it in china"]
+["what time is it in china"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1378,7 +1378,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it in india"]
+["what time is it in india"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1458,7 +1458,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is sunrise"]
+["what time is sunrise"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1568,7 +1568,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when does ti'me change"]
+["when does time change"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1783,7 +1783,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me zone am i in"]
+["what time zone am i in"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2618,7 +2618,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me does target close"]
+["what time does target close"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2788,7 +2788,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how many centi'meters are in an inch"]
+["how many centimeters are in an inch"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2973,7 +2973,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me does the super bowl start"]
+["what time does the super bowl start"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3003,7 +3003,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when does daylight savings ti'me end"]
+["when does daylight savings time end"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3428,7 +3428,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it eastern ti'me"]
+["what time is it eastern time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3613,7 +3613,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what ti'me does costco close"]
+["what time does costco close"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3968,7 +3968,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what ti'me is it est"]
+["what time is it est"]
 true = 0
 false = 1
 lang = ["en",]
@@ -5968,7 +5968,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["till next ti'me"]
+["till next time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6768,7 +6768,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i work for the [new york ti'mes](company)"]
+["i work for the [new york times](company)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -7983,7 +7983,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[ti'me](entity)"]
+["[time](entity)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9478,7 +9478,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["the [new york ti'mes](company)"]
+["the [new york times](company)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10493,12 +10493,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["wait [a](number) [second](unit ti'me)"]
+["wait [a](number) [second](unit time)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["slow down [two](number) [minutes](unit ti'me)"]
+["slow down [two](number) [minutes](unit time)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10528,7 +10528,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["wait for me [five](number) [minutes](unit ti'me)"]
+["wait for me [five](number) [minutes](unit time)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10853,7 +10853,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["first ti'me"]
+["first time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10958,7 +10958,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["my frst ti'me"]
+["my frst time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11203,7 +11203,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["not this ti'me"]
+["not this time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11223,7 +11223,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["not at this ti'me"]
+["not at this time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14053,7 +14053,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you are a waste of ti'me"]
+["you are a waste of time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14173,7 +14173,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i have no ti'me"]
+["i have no time"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14208,7 +14208,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i don't have ti'me for this"]
+["i don't have time for this"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14888,7 +14888,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it's ti'me to fire you"]
+["it's time to fire you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16333,7 +16333,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["be back in [5](number) [minutes](ti'me unit)"]
+["be back in [5](number) [minutes](time unit)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16348,7 +16348,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'll be back in a few [minutes](ti'me unit)"]
+["i'll be back in a few [minutes](time unit)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17513,7 +17513,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["long ti'me no see"]
+["long time no see"]
 true = 1
 false = 0
 lang = ["en",]
@@ -18703,17 +18703,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["is it ti'me for bed yet"]
+["is it time for bed yet"]
 true = 1
 false = 0
 lang = ["en",]
 
-["it's ti'me to go to bed"]
+["it's time to go to bed"]
 true = 0
 false = 1
 lang = ["en",]
 
-["ti'me for us to go to bed"]
+["time for us to go to bed"]
 true = 1
 false = 0
 lang = ["en",]
@@ -18728,7 +18728,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["it's bed ti'me"]
+["it's bed time"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20153,7 +20153,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["bad ti'me for talking"]
+["bad time for talking"]
 true = 1
 false = 0
 lang = ["en",]
