@@ -12448,11 +12448,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["yes"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["yes accept please"]
 true = 1
 false = 0
