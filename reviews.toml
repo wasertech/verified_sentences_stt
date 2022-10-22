@@ -10758,11 +10758,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["not really"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["thank you"]
 true = 1
 false = 0
