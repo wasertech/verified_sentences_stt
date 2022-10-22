@@ -6068,11 +6068,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["o k bye"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["o k thank you bye"]
 true = 1
 false = 0
