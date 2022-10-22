@@ -12543,11 +12543,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["please"]
-true = 1
-false = 0
-lang = ["en",]
-
 [yesh]
 true = 0
 false = 1
