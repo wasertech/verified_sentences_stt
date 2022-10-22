@@ -8523,11 +8523,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'm a [dev](job function)"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["i'm a [developer](job function)"]
 true = 0
 false = 1
