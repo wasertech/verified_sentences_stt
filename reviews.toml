@@ -16918,11 +16918,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i do not care"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["i don't care at all"]
 true = 0
 false = 1
