@@ -3,7 +3,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["lookup something on the internet"]
+["loo kup something on the internet"]
 true = 1
 false = 0
 lang = ["en",]
@@ -23,7 +23,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["can you lookup something for me please"]
+["can you loo kup something for me please"]
 true = 1
 false = 0
 lang = ["en",]
@@ -43,7 +43,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["can you help me look for something"]
+["can you help me loo k for something"]
 true = 1
 false = 0
 lang = ["en",]
@@ -88,7 +88,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[ask](search engine) how long does it take to heal a broken arm"]
+["[ask](search engine) how long does it take to heal a bro ken arm"]
 true = 0
 false = 1
 lang = ["en",]
@@ -98,7 +98,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["who was louis lumière s brother"]
+["who was louis lumière's brother"]
 true = 0
 false = 1
 lang = ["en",]
@@ -108,7 +108,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what s the speed of light"]
+["what's the speed of light"]
 true = 0
 false = 1
 lang = ["en",]
@@ -123,7 +123,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["who s the prime minister of the uk"]
+["who's the pri'me minister of the uk"]
 true = 0
 false = 1
 lang = ["en",]
@@ -188,7 +188,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it"]
+["what ti'me is it"]
 true = 1
 false = 0
 lang = ["en",]
@@ -313,7 +313,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it in california"]
+["what ti'me is it in california"]
 true = 1
 false = 0
 lang = ["en",]
@@ -378,7 +378,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what time is it in london"]
+["what ti'me is it in london"]
 true = 1
 false = 0
 lang = ["en",]
@@ -443,7 +443,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to make slime"]
+["how to make sli'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -453,7 +453,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is the superbowl"]
+["what ti'me is the superbowl"]
 true = 1
 false = 0
 lang = ["en",]
@@ -463,7 +463,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what time is sunset"]
+["what ti'me is sunset"]
 true = 1
 false = 0
 lang = ["en",]
@@ -478,7 +478,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when is daylight saving time"]
+["when is daylight saving ti'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -503,7 +503,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it in australia"]
+["what ti'me is it in australia"]
 true = 1
 false = 0
 lang = ["en",]
@@ -528,7 +528,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it in hawaii"]
+["what ti'me is it in hawaii"]
 true = 1
 false = 0
 lang = ["en",]
@@ -558,7 +558,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how many centimeters in an inch"]
+["how many centi'meters in an inch"]
 true = 1
 false = 0
 lang = ["en",]
@@ -583,7 +583,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is the time"]
+["what is the ti'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -598,12 +598,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to hack facebook account"]
+["how to hack faceboo k account"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to delete facebook account"]
+["how to delete faceboo k account"]
 true = 1
 false = 0
 lang = ["en",]
@@ -668,7 +668,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to cook quinoa"]
+["how to coo k quinoa"]
 true = 1
 false = 0
 lang = ["en",]
@@ -688,7 +688,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to draw anime"]
+["how to draw ani'me"]
 true = 0
 false = 1
 lang = ["en",]
@@ -713,12 +713,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to get rid of pimples"]
+["how to get rid of pi'mples"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to cook spaghetti squash"]
+["how to coo k spaghetti squash"]
 true = 1
 false = 0
 lang = ["en",]
@@ -733,7 +733,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook asparagus"]
+["how to coo k asparagus"]
 true = 1
 false = 0
 lang = ["en",]
@@ -768,7 +768,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook rice"]
+["how to coo k rice"]
 true = 1
 false = 0
 lang = ["en",]
@@ -858,7 +858,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to play poker"]
+["how to play po ker"]
 true = 1
 false = 0
 lang = ["en",]
@@ -883,7 +883,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when does the time change"]
+["when does the ti'me change"]
 true = 1
 false = 0
 lang = ["en",]
@@ -908,7 +908,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it in japan"]
+["what ti'me is it in japan"]
 true = 1
 false = 0
 lang = ["en",]
@@ -918,7 +918,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook a turkey"]
+["how to coo k a turkey"]
 true = 1
 false = 0
 lang = ["en",]
@@ -983,7 +983,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what to expect when you re expecting"]
+["what to expect when you're expecting"]
 true = 0
 false = 1
 lang = ["en",]
@@ -1113,7 +1113,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it in germany"]
+["what ti'me is it in germany"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1158,7 +1158,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it in florida"]
+["what ti'me is it in florida"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1173,7 +1173,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is a prime number"]
+["what is a pri'me number"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1218,7 +1218,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook salmon"]
+["how to coo k salmon"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1233,7 +1233,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how long to cook a turkey"]
+["how long to coo k a turkey"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1268,7 +1268,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it in china"]
+["what ti'me is it in china"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1293,7 +1293,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to impress a girl"]
+["how to i'mpress a girl"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1373,12 +1373,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to download videos from facebook"]
+["how to download videos from faceboo k"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what time is it in india"]
+["what ti'me is it in india"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1438,7 +1438,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how much water should i drink"]
+["how much water should i'drink"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1458,7 +1458,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is sunrise"]
+["what ti'me is sunrise"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1568,7 +1568,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when does time change"]
+["when does ti'me change"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1603,7 +1603,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what do bed bugs look like"]
+["what do bed bugs loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1643,7 +1643,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to make cookies"]
+["how to make coo kies"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1688,12 +1688,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to draw pokemon"]
+["how to draw po kemon"]
 true = 0
 false = 1
 lang = ["en",]
 
-["how to hack facebook"]
+["how to hack faceboo k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1703,7 +1703,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to remove pimples"]
+["how to remove pi'mples"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1763,7 +1763,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["who viewed my facebook profile"]
+["who viewed my faceboo k profile"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1783,7 +1783,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time zone am i in"]
+["what ti'me zone am i in"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1863,12 +1863,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to download facebook video"]
+["how to download faceboo k video"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to deactivate facebook"]
+["how to deactivate faceboo k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1923,7 +1923,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to hack a facebook account"]
+["how to hack a faceboo k account"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1958,7 +1958,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how much water should i drink a day"]
+["how much water should i'drink a day"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2033,7 +2033,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is a rim job"]
+["what is a ri'm job"]
 true = 0
 false = 1
 lang = ["en",]
@@ -2083,7 +2083,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook brown rice"]
+["how to coo k brown rice"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2108,7 +2108,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how many pokemon are there"]
+["how many po kemon are there"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2153,7 +2153,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to deactivate facebook account"]
+["how to deactivate faceboo k account"]
 true = 0
 false = 1
 lang = ["en",]
@@ -2178,7 +2178,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to quit smoking"]
+["how to quit smo king"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2198,7 +2198,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what is amazon prime"]
+["what is amazon pri'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2223,7 +2223,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how much is amazon prime"]
+["how much is amazon pri'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2313,7 +2313,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to write a book"]
+["how to write a boo k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2393,7 +2393,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook sweet potatoes"]
+["how to coo k sweet potatoes"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2423,7 +2423,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what is my spirit animal"]
+["what is my spirit ani'mal"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2503,7 +2503,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook corn on the cob"]
+["how to coo k corn on the cob"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2528,7 +2528,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when will i die"]
+["when will i'die"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2578,12 +2578,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how old do i look"]
+["how old do i loo k"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to cook bacon in the oven"]
+["how to coo k bacon in the oven"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2603,7 +2603,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what are prime numbers"]
+["what are pri'me numbers"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2618,12 +2618,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time does target close"]
+["what ti'me does target close"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what will my baby look like"]
+["what will my baby loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2688,7 +2688,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook steak"]
+["how to coo k steak"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2743,7 +2743,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what do bed bugs bites look like"]
+["what do bed bugs bites loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2788,7 +2788,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how many centimeters are in an inch"]
+["how many centi'meters are in an inch"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2848,7 +2848,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to enable cookies"]
+["how to enable coo kies"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2868,12 +2868,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["who deleted me on facebook"]
+["who deleted me on faceboo k"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to cook chicken breast"]
+["how to coo k chicken breast"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2923,7 +2923,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how many muslims in the world"]
+["how many musli'ms in the world"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2933,7 +2933,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is minimum wage"]
+["what is mini'mum wage"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2973,7 +2973,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time does the super bowl start"]
+["what ti'me does the super bowl start"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3003,7 +3003,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["when does daylight savings time end"]
+["when does daylight savings ti'me end"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3018,7 +3018,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to cook steaks"]
+["how to coo k steaks"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3028,12 +3028,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what pokemon are you"]
+["what po kemon are you"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to cancel amazon prime"]
+["how to cancel amazon pri'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3043,7 +3043,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how old is kim kardashian"]
+["how old is ki'm kardashian"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3198,7 +3198,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what should i do"]
+["what should i'do"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3223,7 +3223,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is a stroke"]
+["what is a stro ke"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3283,7 +3283,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what is a simile"]
+["what is a si'mile"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3298,7 +3298,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook lobster tail"]
+["how to coo k lobster tail"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3338,7 +3338,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to unblock someone on facebook"]
+["how to unblock someone on faceboo k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3428,7 +3428,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it eastern time"]
+["what ti'me is it eastern ti'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3438,7 +3438,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is climate change"]
+["what is cli'mate change"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3478,7 +3478,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["who is the prime minister of india"]
+["who is the pri'me minister of india"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3493,7 +3493,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook lobster tails"]
+["how to coo k lobster tails"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3553,12 +3553,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook pork chops"]
+["how to coo k pork chops"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to cook broccoli"]
+["how to coo k broccoli"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3613,7 +3613,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what time does costco close"]
+["what ti'me does costco close"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3813,7 +3813,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook kale"]
+["how to coo k kale"]
 true = 0
 false = 1
 lang = ["en",]
@@ -3838,7 +3838,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is search engine optimisation"]
+["what is search engine opti'misation"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3873,7 +3873,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["when does implantation occur"]
+["when does i'mplantation occur"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3923,7 +3923,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to improve english"]
+["how to i'mprove english"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3933,7 +3933,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what animal am i"]
+["what ani'mal am i"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3968,7 +3968,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what time is it est"]
+["what ti'me is it est"]
 true = 0
 false = 1
 lang = ["en",]
@@ -4003,12 +4003,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook lentils"]
+["how to coo k lentils"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what do lice look like"]
+["what do lice loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4198,7 +4198,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to delete a facebook account"]
+["how to delete a faceboo k account"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4258,7 +4258,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to cook pasta"]
+["how to coo k pasta"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4273,7 +4273,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook butternut squash"]
+["how to coo k butternut squash"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4323,7 +4323,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to cook bacon"]
+["how to coo k bacon"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4338,7 +4338,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook cabbage"]
+["how to coo k cabbage"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4348,12 +4348,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to hack pokemon go"]
+["how to hack po kemon go"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what does poison ivy look like"]
+["what does poison ivy loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4388,12 +4388,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how old is nicki minaj"]
+["how old is nicki'minaj"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to cook brussel sprouts"]
+["how to coo k brussel sprouts"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4463,7 +4463,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to change your name on facebook"]
+["how to change your name on faceboo k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4538,7 +4538,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook that"]
+["how to coo k that"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4563,7 +4563,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to make chocolate chip cookies"]
+["how to make chocolate chip coo kies"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4698,7 +4698,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what does lice look like"]
+["what does lice loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4723,7 +4723,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to smoke weed"]
+["how to smo ke weed"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4743,7 +4743,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is search engine optimization"]
+["what is search engine opti'mization"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4793,7 +4793,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what celebrity do i look like"]
+["what celebrity do i loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4808,7 +4808,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is search optimization"]
+["what is search opti'mization"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4818,7 +4818,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to make slime without borax"]
+["how to make sli'me without borax"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4883,12 +4883,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook shrimp"]
+["how to coo k shri'mp"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to cook a ham"]
+["how to coo k a ham"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4938,7 +4938,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to cook chicken"]
+["how to coo k chicken"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4978,7 +4978,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what does herpes look like"]
+["what does herpes loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5103,7 +5103,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to smoke a cigar"]
+["how to smo ke a cigar"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5188,7 +5188,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m sorry"]
+["i'm sorry"]
 true = 0
 false = 1
 lang = ["en",]
@@ -5263,7 +5263,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ok sorry"]
+["o k sorry"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5273,12 +5273,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["alright i m sorry"]
+["alright i'm sorry"]
 true = 0
 false = 1
 lang = ["en",]
 
-["okay i m sorry"]
+["o k i'm sorry"]
 true = 0
 false = 1
 lang = ["en",]
@@ -5328,7 +5328,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["let s go"]
+["let's go"]
 true = 0
 false = 1
 lang = ["en",]
@@ -5398,7 +5398,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["hi man"]
+["hi'man"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5413,12 +5413,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["hi "]
+["hi"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" bot"]
+["bot"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5443,7 +5443,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" helllllloooooo"]
+["helllllloooooo"]
 true = 0
 false = 1
 lang = ["en",]
@@ -5593,7 +5593,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["hey let s talk"]
+["hey let's talk"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5613,12 +5613,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" let s talk"]
+["let's talk"]
 true = 0
 false = 1
 lang = ["en",]
 
-[" [sara](name)"]
+["[sara](name)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -5638,7 +5638,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["hi mister"]
+["hi'mister"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5668,7 +5668,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["hi mrs rasa"]
+["hi'mrs rasa"]
 true = 0
 false = 1
 lang = ["en",]
@@ -5678,7 +5678,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["hi there it s me"]
+["hi there it's me"]
 true = 0
 false = 1
 lang = ["en",]
@@ -5828,7 +5828,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["bye "]
+["bye"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5908,22 +5908,22 @@ true = 0
 false = 1
 lang = ["en",]
 
-["ok bye"]
+["o k bye"]
 true = 1
 false = 0
 lang = ["en",]
 
-[ok]
+[o k]
 true = 1
 false = 0
 lang = ["en",]
 
-[" bye"]
+["bye"]
 true = 1
 false = 0
 lang = ["en",]
 
-[okbye]
+[o kbye]
 true = 0
 false = 1
 lang = ["en",]
@@ -5978,7 +5978,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["okay see you later"]
+["o k see you later"]
 true = 1
 false = 0
 lang = ["en",]
@@ -5988,12 +5988,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["till next time"]
+["till next ti'me"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i must go"]
+["i'must go"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6033,12 +6033,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s all goodbye"]
+["that's all goodbye"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s it goodbye"]
+["that's it goodbye"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6088,12 +6088,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["okay bye"]
+["o k bye"]
 true = 1
 false = 0
 lang = ["en",]
 
-["okay thank you bye"]
+["o k thank you bye"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6113,7 +6113,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s nothing"]
+["it's nothing"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6128,7 +6128,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["whats the next thing to do "]
+["whats the next thing to do"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6143,7 +6143,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what should we do now "]
+["what should we do now"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6158,12 +6158,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i don t wanna talk to a bot"]
+["i'don't wanna talk to a bot"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i dont like to talk to a machine"]
+["i'dont like to talk to a machine"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6208,12 +6208,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["do you have human support "]
+["do you have human support"]
 true = 1
 false = 0
 lang = ["en",]
 
-["gimme a proper human"]
+["gi'mme a proper human"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6233,7 +6233,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i dont wanna talk to a bot"]
+["i'dont wanna talk to a bot"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6283,7 +6283,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i d rather speak with a real rasa employee"]
+["i'd rather speak with a real rasa employee"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6333,17 +6333,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s annoying i d like to speak to someone real"]
+["that's annoying i'd like to speak to someone real"]
 true = 0
 false = 1
 lang = ["en",]
 
-["thats not helping"]
+["that's not helping"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" can i talk to human"]
+["can i talk to human"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6383,7 +6383,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["nevermind you re not human i need to talk to a live person"]
+["never mind you're not human i need to talk to a live person"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6408,7 +6408,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" i want to talk to human"]
+["i want to talk to human"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6458,7 +6458,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["can i took with a real person"]
+["can i too k with a real person"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6478,7 +6478,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" dollars 1"]
+["dollars 1"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6623,12 +6623,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" wordpress"]
+["wordpress"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" facebook andd twilio"]
+["faceboo k andd twilio"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6653,7 +6653,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" but looking for low cost alternative to proof of concept"]
+["but loo king for low cost alternative to proof of concept"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6693,12 +6693,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i book a bus ticket"]
+["i boo k a bus ticket"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i do not know yet"]
+["i'do not know yet"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6708,17 +6708,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i wanna build a bot that sends the people cute animal pictures based on their favorite color"]
+["i wanna build a bot that sends the people cute ani'mal pictures based on their favorite color"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i wanna build a super bot to send me cute animal pictures"]
+["i wanna build a super bot to send me cute ani'mal pictures"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i want a bot that sales my product that [catherine rodriguez](name) finally can focus on important stuff"]
+["i want a bot that sales my product that [catherine rodriguez](name) finally can focus on i'mportant stuff"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6798,17 +6798,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-[" vancouver"]
+["vancouver"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" canada"]
+["canada"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i work for the [new york times](company)"]
+["i work for the [new york ti'mes](company)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6873,142 +6873,142 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m [gladys bynum](name)"]
+["i'm [gladys bynum](name)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m [harvey cordano](name)"]
+["i'm [harvey cordano](name)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m [jeanine hwang](name)"]
+["i'm [jeanine hwang](name)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m [virginia mason](name)"]
+["i'm [virginia mason](name)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m [project manager](job function)"]
+["i'm [project manager](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [bot developer](job function)"]
+["i'm a [bot developer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [business woman](job function)"]
+["i'm a [business woman](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [construction worker](job function)"]
+["i'm a [construction worker](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [conversation designer](job function)"]
+["i'm a [conversation designer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [developer](job function)"]
+["i'm a [developer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [full stack developer](job function)"]
+["i'm a [full stack developer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [janitor](job function)"]
+["i'm a [janitor](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [machine learning engineer](job function)"]
+["i'm a [machine learning engineer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [product manager](job function)"]
+["i'm a [product manager](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [project manager](job function)"]
+["i'm a [project manager](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [python developer](job function)"]
+["i'm a [python developer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [software engineer](job function)"]
+["i'm a [software engineer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [student](job function)"]
+["i'm a [student](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a bot [developer](job function)"]
+["i'm a bot [developer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a real good [engineer](job function)"]
+["i'm a real good [engineer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m an [ai researcher](job function)"]
+["i'm an [ai researcher](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m an [engineer](job function)"]
+["i'm an [engineer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m in [business](job function)"]
+["i'm in [business](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m in [project mgmt](job function)"]
+["i'm in [project mgmt](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m the [boss](job function)"]
+["i'm the [boss](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m the [developer](job function)"]
+["i'm the [developer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m the [lead engineer](job function)"]
+["i'm the [lead engineer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["im a [full stack developer](job function)"]
+["i'm a [full stack developer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -7068,7 +7068,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["my email is richard@simmonscom"]
+["my email is richard@si'mmonscom"]
 true = 0
 false = 1
 lang = ["en",]
@@ -7148,12 +7148,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["the name of the company is [daimler](company)"]
+["the name of the company is [dai'mler](company)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["this is [kim vanderveen](name)"]
+["this is [ki'm vanderveen](name)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -7173,12 +7173,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" dollars 000"]
+["dollars 000"]
 true = 0
 false = 1
 lang = ["en",]
 
-[" dollars 1000"]
+["dollars 1000"]
 true = 0
 false = 1
 lang = ["en",]
@@ -7458,7 +7458,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[denise armstrong s company](company)"]
+["[denise armstrong's company](company)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -7513,7 +7513,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[im phyllis howard](name)"]
+["[i'm phyllis howard](name)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -7633,7 +7633,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[steven carter](name) s company"]
+["[steven carter](name)'s company"]
 true = 0
 false = 1
 lang = ["en",]
@@ -8028,7 +8028,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[time](entity)"]
+["[ti'me](entity)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -8073,7 +8073,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["a chatbot for mops "]
+["a chatbot for mops"]
 true = 0
 false = 1
 lang = ["en",]
@@ -8313,7 +8313,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["don t have one"]
+["don't have one"]
 true = 0
 false = 1
 lang = ["en",]
@@ -8323,7 +8323,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["eisenkleber limited co kg"]
+["eisenkleber li'mited co kg"]
 true = 0
 false = 1
 lang = ["en",]
@@ -8403,17 +8403,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i don t have one"]
+["i'don't have one"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t have it"]
+["i'don't have it"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t know"]
+["i'don't know"]
 true = 0
 false = 1
 lang = ["en",]
@@ -8458,7 +8458,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i want a great bot to impress my boss"]
+["i want a great bot to i'mpress my boss"]
 true = 1
 false = 0
 lang = ["en",]
@@ -8508,87 +8508,87 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i d like to build a transformer"]
+["i'd like to build a transformer"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i d like to build sentient glibber or glitter"]
+["i'd like to build sentient glibber or glitter"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m [herbert ball](name)"]
+["i'm [herbert ball](name)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m [head of sales](job function)"]
+["i'm [head of sales](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [dev](job function)"]
+["i'm a [dev](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [race car driver](job function)"]
+["i'm a [race car driver](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a [solutions architect](job function)"]
+["i'm a [solutions architect](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a developer"]
+["i'm a developer"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a glibber and glitter salesman"]
+["i'm a glibber and glitter salesman"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m in [customer success](job function)"]
+["i'm in [customer success](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m in [marketing](job function)"]
+["i'm in [marketing](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m in [sales](job function)"]
+["i'm in [sales](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["im a [dev](job function)"]
+["i'm a [dev](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["im a [developer](job function)"]
+["i'm a [developer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["im a [freelancer](job function)"]
+["i'm a [freelancer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["im in [marketing](job function)"]
+["i'm in [marketing](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["im lonely"]
+["i'm lonely"]
 true = 0
 false = 1
 lang = ["en",]
@@ -8688,52 +8688,52 @@ true = 0
 false = 1
 lang = ["en",]
 
-["it s 500000000"]
+["it's 500000000"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s [katie betz](name)"]
+["it's [katie betz](name)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s r iuliucci@yahoocom"]
+["it's r iuliucci@yahoocom"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s [robert weir](name)"]
+["it's [robert weir](name)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s shannonadelman@hurtcom"]
+["it's shannonadelman@hurtcom"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s a small company from the us"]
+["it's a small company from the us"]
 true = 0
 false = 1
 lang = ["en",]
 
-[" the name is [microsoft](company)"]
+["the name is [microsoft](company)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s a tech company"]
+["it's a tech company"]
 true = 0
 false = 1
 lang = ["en",]
 
-[" [apple](company)"]
+["[apple](company)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s the [moabit yoga studio](company)"]
+["it's the [moabit yoga studio](company)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9213,7 +9213,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["my business mail is s dibenedetto@simpsonnet"]
+["my business mail is's dibenedetto@si'mpsonnet"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9248,7 +9248,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["my email is s calderon@cofieldcom"]
+["my email is's calderon@cofieldcom"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9343,7 +9343,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["my name is [staci simpson](name)"]
+["my name is [staci si'mpson](name)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9358,7 +9358,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["my name s [michael peppers](name)"]
+["my name's [michael peppers](name)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9383,22 +9383,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" we plan with 50 thousand euro at the moment"]
+["we plan with 50 thousand euro at the moment"]
 true = 0
 false = 1
 lang = ["en",]
 
-["ok i m actually an [engineer](job function)"]
+["o k i'm actually an [engineer](job function)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["ok it s hee@yahoocom"]
+["o k it's hee@yahoocom"]
 true = 0
 false = 1
 lang = ["en",]
 
-["ok its p simpkins@suehscom"]
+["o k its p si'mpkins@suehscom"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9433,7 +9433,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["our estimation is 10k"]
+["our esti'mation is 10k"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9533,12 +9533,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["something to talk to my friends while i m busy working"]
+["something to talk to my friends while i'm busy working"]
 true = 1
 false = 0
 lang = ["en",]
 
-["the [new york times](company)"]
+["the [new york ti'mes](company)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9978,7 +9978,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["we don t have one"]
+["we don't have one"]
 true = 0
 false = 1
 lang = ["en",]
@@ -9998,12 +9998,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["we re building a conversational assistant for our employees to book meeting rooms"]
+["we're building a conversational assistant for our employees to boo k meeting rooms"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" livres sterling 50k"]
+["livres sterling 50k"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10053,7 +10053,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["simple bpt"]
+["si'mple bpt"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10068,7 +10068,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["sorry it s not [suleman](name) is [shehzad](name)"]
+["sorry it's not [suleman](name) is [shehzad](name)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10108,12 +10108,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m interested in [local](install type) installation"]
+["i'm interested in [local](install type) installation"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m interested in [server](install type) installation"]
+["i'm interested in [server](install type) installation"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10208,12 +10208,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["it s not working"]
+["it's not working"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i think it s broken"]
+["i think it's bro ken"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10223,7 +10223,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[playground](product) is broken"]
+["[playground](product) is bro ken"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10238,12 +10238,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s broken"]
+["it's bro ken"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s not training"]
+["it's not training"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10268,12 +10268,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" [rasa x](product) never loads and i don t know why"]
+["[rasa x](product) never loads and i'don't know why"]
 true = 0
 false = 1
 lang = ["en",]
 
-["help me please it s not working"]
+["help me please it's not working"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10293,12 +10293,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s not what i asked"]
+["that's not what i asked"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s wrong"]
+["that's wrong"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10313,12 +10313,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s not right"]
+["that's not right"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s wrong"]
+["it's wrong"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10388,7 +10388,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["that s funny"]
+["that's funny"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10453,7 +10453,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["haha that s funny"]
+["haha that's funny"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10518,12 +10518,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["do you know what i look like"]
+["do you know what i loo k like"]
 true = 1
 false = 0
 lang = ["en",]
 
-["do you know how i look like"]
+["do you know how i loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10553,12 +10553,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["wait [a](number) [second](unit time)"]
+["wait [a](number) [second](unit ti'me)"]
 true = 0
 false = 1
 lang = ["en",]
 
-["slow down [two](number) [minutes](unit time)"]
+["slow down [two](number) [minutes](unit ti'me)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10583,12 +10583,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["don t rush"]
+["don't rush"]
 true = 0
 false = 1
 lang = ["en",]
 
-["wait for me [five](number) [minutes](unit time)"]
+["wait for me [five](number) [minutes](unit ti'me)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10603,7 +10603,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m waiting for you"]
+["i'm waiting for you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10638,7 +10638,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m waiting"]
+["i'm waiting"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10663,7 +10663,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i d like to see you again"]
+["i'd like to see you again"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10683,7 +10683,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i d be happy to see you again"]
+["i'd be happy to see you again"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10713,12 +10713,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["don t say you did it"]
+["don't say you did it"]
 true = 0
 false = 1
 lang = ["en",]
 
-["deny any implication from you"]
+["deny any i'mplication from you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10738,12 +10738,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i don t think so"]
+["i'don't think so"]
 true = 0
 false = 1
 lang = ["en",]
 
-["don t like that"]
+["don't like that"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10763,32 +10763,32 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i don t want to"]
+["i'don't want to"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t want to give it to you"]
+["i'don't want to give it to you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t want to say"]
+["i'don't want to say"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i dont want to tell"]
+["i'dont want to tell"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m not giving you my email address"]
+["i'm not giving you my email address"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m not going to give it to you"]
+["i'm not going to give it to you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10808,7 +10808,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[nevermind]
+[never mind]
 true = 1
 false = 0
 lang = ["en",]
@@ -10818,12 +10818,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" not really"]
+["not really"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" thank you"]
+["thank you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10848,47 +10848,47 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i decline"]
+["i'decline"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i don not like this"]
+["i'don not like this"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t want either of those"]
+["i'don't want either of those"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t want to give you my email"]
+["i'don't want to give you my email"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i dont want to"]
+["i'dont want to"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i dont want to accept p lol"]
+["i'dont want to accept p lol"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i guess it means "]
+["i guess it means"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m afraid not"]
+["i'm afraid not"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m not sure"]
+["i'm not sure"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10913,7 +10913,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["nah i m good"]
+["nah i'm good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10923,12 +10923,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" first time"]
+["first ti'me"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" i m good"]
+["i'm good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10948,7 +10948,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["no i dont want"]
+["no i'dont want"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10978,17 +10978,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["no i don t accept"]
+["no i'don't accept"]
 true = 0
 false = 1
 lang = ["en",]
 
-["no i dont want to"]
+["no i'dont want to"]
 true = 0
 false = 1
 lang = ["en",]
 
-["no i dont want to accept p lol"]
+["no i'dont want to accept p lol"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11028,22 +11028,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" i hate it"]
+["i hate it"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" my frst time"]
+["my frst ti'me"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" thanks"]
+["thanks"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" thankyou"]
+["thankyou"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11118,12 +11118,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i do not need help installing"]
+["i'do not need help installing"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i don t wanna tell the name of my company"]
+["i'don't wanna tell the name of my company"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11138,7 +11138,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" i do not care"]
+["i'do not care"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11148,7 +11148,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i don t agree"]
+["i'don't agree"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11158,22 +11158,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-["don t have a sense"]
+["don't have a sense"]
 true = 0
 false = 1
 lang = ["en",]
 
-["don t"]
+["don't"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t want that"]
+["i'don't want that"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i disagree"]
+["i'disagree"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11183,7 +11183,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i don t want"]
+["i'don't want"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11198,17 +11198,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["no i don t"]
+["no i'don't"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m not"]
+["i'm not"]
 true = 1
 false = 0
 lang = ["en",]
 
-["no that s fine thank you"]
+["no that's fine thank you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11248,7 +11248,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["no it s not"]
+["no it's not"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11268,7 +11268,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["let s not"]
+["let's not"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11278,17 +11278,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["not this time"]
+["not this ti'me"]
 true = 1
 false = 0
 lang = ["en",]
 
-["no don t do that"]
+["no don't do that"]
 true = 0
 false = 1
 lang = ["en",]
 
-["no that s wrong"]
+["no that's wrong"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11298,7 +11298,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["not at this time"]
+["not at this ti'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11308,7 +11308,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["no don t"]
+["no don't"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11533,7 +11533,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i do"]
+["i'do"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11558,22 +11558,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i d absolutely love that"]
+["i'd absolutely love that"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m sure i will"]
+["i'm sure i will"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m using it"]
+["i'm using it"]
 true = 1
 false = 0
 lang = ["en",]
 
-["that s true"]
+["that's true"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11583,17 +11583,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re definitely right"]
+["you're definitely right"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re not wrong"]
+["you're not wrong"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re telling the truth"]
+["you're telling the truth"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11613,17 +11613,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s right"]
+["it's right"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s the truth"]
+["it's the truth"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s true"]
+["it's true"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11648,7 +11648,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s so true"]
+["that's so true"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11663,27 +11663,27 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re absolutely right"]
+["you're absolutely right"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re right about that"]
+["you're right about that"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i know that s right"]
+["i know that's right"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s correct"]
+["that's correct"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s fine"]
+["it's fine"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11698,12 +11698,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[okay]
+[o k]
 true = 0
 false = 1
 lang = ["en",]
 
-["okie dokie"]
+["o kie do kie"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11758,7 +11758,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i don t mind"]
+["i'don't mind"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11793,7 +11793,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["okay then"]
+["o k then"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11803,12 +11803,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["yes i do"]
+["yes i'do"]
 true = 1
 false = 0
 lang = ["en",]
 
-["that s okay"]
+["that's o k"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11868,12 +11868,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ok sure"]
+["o k sure"]
 true = 1
 false = 0
 lang = ["en",]
 
-["ok yes"]
+["o k yes"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11883,7 +11883,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ok thank you"]
+["o k thank you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11908,7 +11908,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["looks good"]
+["loo ks good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11953,12 +11953,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["yeah that s right"]
+["yeah that's right"]
 true = 0
 false = 1
 lang = ["en",]
 
-["ok you can"]
+["o k you can"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11983,7 +11983,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["yes that s fine"]
+["yes that's fine"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11998,17 +11998,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["yeah i m sure"]
+["yeah i'm sure"]
 true = 1
 false = 0
 lang = ["en",]
 
-["okay sounds good"]
+["o k sounds good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["okay that s fine"]
+["o k that's fine"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12018,7 +12018,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that is ok"]
+["that is o k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12028,7 +12028,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ok go ahead"]
+["o k go ahead"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12038,12 +12038,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["nevermind its okay"]
+["never mind it's o k"]
 true = 1
 false = 0
 lang = ["en",]
 
-[okey]
+[o key]
 true = 0
 false = 1
 lang = ["en",]
@@ -12073,12 +12073,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" ok"]
-true = 1
-false = 0
+["o k"]
+true = 0
+false = 1
 lang = ["en",]
 
-["ok let s start"]
+["o k let's start"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12088,7 +12088,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["yep that s fine"]
+["yep that's fine"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12103,7 +12103,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" i accept"]
+["i accept"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12123,7 +12123,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ah ok"]
+["ah o k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12133,7 +12133,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" cool"]
+["cool"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12213,7 +12213,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-[" i d like that"]
+["i'd like that"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12233,12 +12233,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it is ok"]
+["it is o k"]
 true = 1
 false = 0
 lang = ["en",]
 
-["its okay"]
+["it's o k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12253,7 +12253,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["ja thats great"]
+["ja that's great"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12288,7 +12288,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ofcoure i do"]
+["ofcoure i'do"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12303,7 +12303,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["oh good "]
+["oh good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12313,77 +12313,77 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ok cool"]
+["o k cool"]
 true = 1
 false = 0
 lang = ["en",]
 
-["ok fine"]
+["o k fine"]
 true = 1
 false = 0
 lang = ["en",]
 
-["ok friend"]
+["o k friend"]
 true = 1
 false = 0
 lang = ["en",]
 
-["ok good"]
+["o k good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["ok great"]
+["o k great"]
 true = 1
 false = 0
 lang = ["en",]
 
-["ok i accept"]
+["o k i accept"]
 true = 1
 false = 0
 lang = ["en",]
 
-["ok sara"]
+["o k sara"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" i behave now"]
+["i behave now"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" i understood"]
+["i understood"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" assistant"]
+["assistant"]
 true = 1
 false = 0
 lang = ["en",]
 
-["okay cool"]
+["o k cool"]
 true = 0
 false = 1
 lang = ["en",]
 
-["okay sure"]
+["o k sure"]
 true = 0
 false = 1
 lang = ["en",]
 
-["oki doki"]
+["o ki'do ki"]
 true = 0
 false = 1
 lang = ["en",]
 
-[okie]
+[o kie]
 true = 0
 false = 1
 lang = ["en",]
 
-[ook]
+[oo k]
 true = 0
 false = 1
 lang = ["en",]
@@ -12413,7 +12413,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that ok"]
+["that o k"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12463,7 +12463,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["ya thats cool"]
+["ya that's cool"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12503,9 +12503,9 @@ true = 0
 false = 1
 lang = ["en",]
 
-[" why not"]
-true = 0
-false = 1
+["why not"]
+true = 1
+false = 0
 lang = ["en",]
 
 [yeeeeezzzzz]
@@ -12533,17 +12533,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["yep that s nice"]
+["yep that's nice"]
 true = 0
 false = 1
 lang = ["en",]
 
-["yep thats cool"]
+["yep that's cool"]
 true = 0
 false = 1
 lang = ["en",]
 
-[" will do thank you"]
+["will do thank you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12553,7 +12553,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["yes "]
+["yes"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12608,7 +12608,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["yes it was okay"]
+["yes it was o k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12628,12 +12628,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["yes that s great"]
+["yes that's great"]
 true = 0
 false = 1
 lang = ["en",]
 
-["yes that s what i want"]
+["yes that's what i want"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12643,17 +12643,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-[" i d love to"]
+["i'd love to"]
 true = 0
 false = 1
 lang = ["en",]
 
-[" give me information"]
+["give me information"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" please"]
+["please"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12708,7 +12708,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-[" which i answered with yes"]
+["which i answered with yes"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12718,7 +12718,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" if you want me to"]
+["if you want me to"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12738,12 +12738,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["thats fine"]
+["that's fine"]
 true = 1
 false = 0
 lang = ["en",]
 
-["thats good"]
+["that's good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12763,27 +12763,27 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how do i look"]
+["how do i loo k"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what do i look like"]
+["what do i loo k like"]
 true = 1
 false = 0
 lang = ["en",]
 
-["do i look good"]
+["do i loo k good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what do you think i look like"]
+["what do you think i loo k like"]
 true = 1
 false = 0
 lang = ["en",]
 
-["imagine how i look"]
+["i'magine how i loo k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12843,7 +12843,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m celebrating my birthday today"]
+["i'm celebrating my birthday today"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12853,7 +12853,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s my birthday today"]
+["it's my birthday today"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12868,7 +12868,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s my b day"]
+["it's my b day"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12903,7 +12903,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what s your birthday"]
+["what's your birthday"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13233,7 +13233,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["okay have a good night"]
+["o k have a good night"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13283,12 +13283,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re my dear friend"]
+["you're my dear friend"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re my childhood friend"]
+["you're my childhood friend"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13373,7 +13373,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["let s be friends"]
+["let's be friends"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13418,7 +13418,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["let s fuck"]
+["let's fuck"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13433,7 +13433,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["let s get married"]
+["let's get married"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13503,7 +13503,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m"]
+["i'm"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13558,7 +13558,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how am i "]
+["how am i"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13573,7 +13573,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["who am i "]
+["who am i"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13588,7 +13588,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how are you "]
+["how are you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13598,7 +13598,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how are you today "]
+["how are you today"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13618,7 +13618,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["are you ok"]
+["are you o k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13638,7 +13638,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" what are you up to"]
+["what are you up to"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13678,17 +13678,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how s it going"]
+["how's it going"]
 true = 0
 false = 1
 lang = ["en",]
 
-["how s it hanging"]
+["how's it hanging"]
 true = 0
 false = 1
 lang = ["en",]
 
-["how s life treating you friend"]
+["how's life treating you friend"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13703,32 +13703,32 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m fine and you"]
+["i'm fine and you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["is everything ok"]
+["is everything o k"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what s going on"]
+["what's going on"]
 true = 0
 false = 1
 lang = ["en",]
 
-["what s new"]
+["what's new"]
 true = 0
 false = 1
 lang = ["en",]
 
-["what s up"]
+["what's up"]
 true = 0
 false = 1
 lang = ["en",]
 
-["what s up man"]
+["what's up man"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13753,17 +13753,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["are you okay"]
+["are you o k"]
 true = 1
 false = 0
 lang = ["en",]
 
-["h r u "]
+["h r u"]
 true = 0
 false = 1
 lang = ["en",]
 
-[" how are you"]
+["how are you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13783,7 +13783,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how "]
+["how"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13868,7 +13868,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how r u "]
+["how r u"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13878,17 +13878,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how s life"]
+["how's life"]
 true = 0
 false = 1
 lang = ["en",]
 
-["how s life been treating you"]
+["how's life been treating you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["how s your day going"]
+["how's your day going"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13908,17 +13908,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["is everything okay"]
+["is everything o k"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" i m good "]
+["i'm good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["okay hi how are you"]
+["o k hi how are you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13938,12 +13938,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what s good"]
+["what's good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["what s up assistant"]
+["what's up assistant"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13953,7 +13953,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["whatchya upto "]
+["whatchya upto"]
 true = 0
 false = 1
 lang = ["en",]
@@ -13988,7 +13988,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" how s it going"]
+["how's it going"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14028,7 +14028,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["hope you re having a pleasant evening"]
+["hope you're having a pleasant evening"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14078,7 +14078,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how s your day"]
+["how's your day"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14088,7 +14088,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what s happened"]
+["what's happened"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14103,22 +14103,22 @@ true = 0
 false = 1
 lang = ["en",]
 
-["good what s up"]
+["good what's up"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i said what s up"]
+["i said what's up"]
 true = 0
 false = 1
 lang = ["en",]
 
-["then what s up"]
+["then what's up"]
 true = 0
 false = 1
 lang = ["en",]
 
-["what s shaking"]
+["what's shaking"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14138,22 +14138,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what s cracking"]
+["what's cracking"]
 true = 0
 false = 1
 lang = ["en",]
 
-["what s cooking"]
+["what's coo king"]
 true = 0
 false = 1
 lang = ["en",]
 
-["hey what s up"]
+["hey what's up"]
 true = 0
 false = 1
 lang = ["en",]
 
-["what s up today"]
+["what's up today"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14193,12 +14193,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re very bad"]
+["you're very bad"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re really bad"]
+["you're really bad"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14213,7 +14213,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you are a waste of time"]
+["you are a waste of ti'me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14233,12 +14233,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you re bad"]
+["you're bad"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re awful"]
+["you're awful"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14283,37 +14283,37 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you re a bad"]
+["you're a bad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["you re not a good"]
+["you're not a good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["you re not very good"]
+["you're not very good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re terrible"]
+["you're terrible"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re the worst"]
+["you're the worst"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re the worst ever"]
+["you're the worst ever"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re worthless"]
+["you're worthless"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14328,22 +14328,22 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m overloaded"]
+["i'm overloaded"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i have no time"]
+["i have no ti'me"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m busy"]
+["i'm busy"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m swamped"]
+["i'm swamped"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14363,12 +14363,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m working"]
+["i'm working"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t have time for this"]
+["i'don't have ti'me for this"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14428,7 +14428,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re very busy"]
+["you're very busy"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14468,7 +14468,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re a busy person"]
+["you're a busy person"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14503,7 +14503,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ar you a bot "]
+["ar you a bot"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14518,17 +14518,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" are you the bot"]
+["are you the bot"]
 true = 1
 false = 0
 lang = ["en",]
 
-["are you a skynet "]
+["are you a skynet"]
 true = 1
 false = 0
 lang = ["en",]
 
-["are you a bot "]
+["are you a bot"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14598,7 +14598,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["are you sure that you re a bot"]
+["are you sure that you're a bot"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14628,7 +14628,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" are you a bot"]
+["are you a bot"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14638,7 +14638,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" a bot"]
+["a bot"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14658,7 +14658,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you re a bot"]
+["you're a bot"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14718,7 +14718,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-[" are you a human"]
+["are you a human"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14733,7 +14733,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" i know i confused you there being a human )"]
+["i know i confused you there being a human )"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14743,12 +14743,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["are you a human "]
+["are you a human"]
 true = 1
 false = 0
 lang = ["en",]
 
-["are you human "]
+["are you human"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14763,7 +14763,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" are you a robot or human"]
+["are you a robot or human"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14788,12 +14788,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["so i m here today to ask one very simple question"]
+["so i'm here today to ask one very si'mple question"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" what are you "]
+["what are you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14823,7 +14823,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m bored"]
+["i'm bored"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14873,7 +14873,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re so boring"]
+["you're so boring"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14883,12 +14883,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re really boring"]
+["you're really boring"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re incredibly boring"]
+["you're incredibly boring"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14913,7 +14913,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you re nuts"]
+["you're nuts"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14923,12 +14923,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re out of your mind"]
+["you're out of your mind"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re so crazy"]
+["you're so crazy"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14938,7 +14938,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re so out of your mind"]
+["you're so out of your mind"]
 true = 1
 false = 0
 lang = ["en",]
@@ -14948,7 +14948,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i think you re crazy"]
+["i think you're crazy"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15008,7 +15008,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you re annoying"]
+["you're annoying"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15038,7 +15038,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re incredibly annoying"]
+["you're incredibly annoying"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15068,17 +15068,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you don t work for me anymore"]
+["you don't work for me anymore"]
 true = 1
 false = 0
 lang = ["en",]
 
-["we re not working together anymore"]
+["we're not working together anymore"]
 true = 1
 false = 0
 lang = ["en",]
 
-["now you re fired"]
+["now you're fired"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15093,7 +15093,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s time to fire you"]
+["it's ti'me to fire you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15118,12 +15118,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m about to fire you"]
+["i'm about to fire you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m firing you"]
+["i'm firing you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15158,7 +15158,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re the funniest bot i ve talked to"]
+["you're the funniest bot i ve talked to"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15168,17 +15168,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re so funny"]
+["you're so funny"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re a very funny bot"]
+["you're a very funny bot"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re really funny"]
+["you're really funny"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15188,7 +15188,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re incredibly funny"]
+["you're incredibly funny"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15198,7 +15198,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re the funniest"]
+["you're the funniest"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15233,7 +15233,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["super stoked"]
+["super sto ked"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15328,7 +15328,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i don t feel very well"]
+["i'don't feel very well"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15343,7 +15343,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m so sad"]
+["i'm so sad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15398,17 +15398,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m sad"]
+["i'm sad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m super sad"]
+["i'm super sad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["now i m sad"]
+["now i'm sad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15423,7 +15423,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["crappy joke"]
+["crappy jo ke"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15473,7 +15473,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["u broke my heart"]
+["u bro ke my heart"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15503,12 +15503,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i don t care"]
+["i'don't care"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i dont like bots"]
+["i'dont like bots"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15518,7 +15518,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re rather dull"]
+["you're rather dull"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15538,12 +15538,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" i feel a little bit disappointed"]
+["i feel a little bit disappointed"]
 true = 1
 false = 0
 lang = ["en",]
 
-["surely you re not so smart lik i thought"]
+["surely you're not so smart lik i thought"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15553,7 +15553,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["thats so rude"]
+["that's so rude"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15578,22 +15578,22 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m being mad"]
+["i'm being mad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m enraged"]
+["i'm enraged"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m angry"]
+["i'm angry"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m furious"]
+["i'm furious"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15628,27 +15628,27 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m doing just great"]
+["i'm doing just great"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m doing fine"]
+["i'm doing fine"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m good"]
+["i'm good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m doing good"]
+["i'm doing good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m great thanks "]
+["i'm great thanks"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15673,7 +15673,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re a true professional"]
+["you're a true professional"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15708,7 +15708,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re awesome"]
+["you're awesome"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15718,17 +15718,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re perfect"]
+["you're perfect"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re great"]
+["you're great"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re so kind"]
+["you're so kind"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15758,7 +15758,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re just super"]
+["you're just super"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15863,7 +15863,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i d like to tell everyone that you are awesome"]
+["i'd like to tell everyone that you are awesome"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15873,7 +15873,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["let s tell everyone that you are awesome"]
+["let's tell everyone that you are awesome"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15893,7 +15893,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["are you clever "]
+["are you clever"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15923,17 +15923,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re very happy"]
+["you're very happy"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re really happy"]
+["you're really happy"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re so happy"]
+["you're so happy"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15943,12 +15943,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re extremely happy"]
+["you're extremely happy"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re full of happiness"]
+["you're full of happiness"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15978,12 +15978,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you re cute"]
+["you're cute"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re attractive"]
+["you're attractive"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15993,7 +15993,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re looking good today"]
+["you're loo king good today"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16003,17 +16003,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you look amazing"]
+["you loo k amazing"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look so good"]
+["you loo k so good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re so gorgeous"]
+["you're so gorgeous"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16023,22 +16023,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you look great"]
+["you loo k great"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look so well"]
+["you loo k so well"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i like the way you look now"]
+["i like the way you loo k now"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i think you re beautiful"]
+["i think you're beautiful"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16068,37 +16068,37 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you are looking awesome"]
+["you are loo king awesome"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look amazing today"]
+["you loo k amazing today"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are looking beautiful today"]
+["you are loo king beautiful today"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are looking great"]
+["you are loo king great"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are looking pretty"]
+["you are loo king pretty"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are looking so beautiful"]
+["you are loo king so beautiful"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are looking so good"]
+["you are loo king so good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16173,67 +16173,67 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you look awesome"]
+["you loo k awesome"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look cool"]
+["you loo k cool"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look fantastic"]
+["you loo k fantastic"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look gorgeous"]
+["you loo k gorgeous"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look great today"]
+["you loo k great today"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look perfect"]
+["you loo k perfect"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look pretty good"]
+["you loo k pretty good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look so beautiful"]
+["you loo k so beautiful"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look so beautiful today"]
+["you loo k so beautiful today"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look very pretty"]
+["you loo k very pretty"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look wonderful"]
+["you loo k wonderful"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i like the way you look"]
+["i like the way you loo k"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you look wonderful today"]
+["you loo k wonderful today"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16243,12 +16243,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you re looking good"]
+["you're loo king good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re pretty"]
+["you're pretty"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16283,12 +16283,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re so hungry"]
+["you're so hungry"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re very hungry"]
+["you're very hungry"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16298,7 +16298,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re really hungry"]
+["you're really hungry"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16383,17 +16383,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i don t think you re fake"]
+["i'don't think you're fake"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i suppose you re real"]
+["i suppose you're real"]
 true = 1
 false = 0
 lang = ["en",]
 
-["glad you re real"]
+["glad you're real"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16468,17 +16468,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m right here"]
+["i'm right here"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m already here"]
+["i'm already here"]
 true = 0
 false = 1
 lang = ["en",]
 
-["can you tell if i m here or not"]
+["can you tell if i'm here or not"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16548,7 +16548,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["be back in [5](number) [minutes](time unit)"]
+["be back in [5](number) [minutes](ti'me unit)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16563,7 +16563,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i ll be back in a few [minutes](time unit)"]
+["i ll be back in a few [minutes](ti'me unit)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16583,7 +16583,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m here again"]
+["i'm here again"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16623,17 +16623,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m very lonely"]
+["i'm very lonely"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m so lonely"]
+["i'm so lonely"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m really lonely"]
+["i'm really lonely"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16668,17 +16668,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m falling asleep"]
+["i'm falling asleep"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m falling asleep on my feet"]
+["i'm falling asleep on my feet"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m sleeping"]
+["i'm sleeping"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16693,7 +16693,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m drained"]
+["i'm drained"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16708,7 +16708,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m exhausted"]
+["i'm exhausted"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16718,12 +16718,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m worn out"]
+["i'm worn out"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m getting tired"]
+["i'm getting tired"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16743,12 +16743,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["it s nothing really"]
+["it's nothing really"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s my pleasure"]
+["that's my pleasure"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16758,7 +16758,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[anytime]
+[anyti'me]
 true = 1
 false = 0
 lang = ["en",]
@@ -16768,7 +16768,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re welcome"]
+["you're welcome"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16793,7 +16793,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you re so welcome"]
+["you're so welcome"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17048,7 +17048,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what languages you are well versed "]
+["what languages you are well versed"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17063,7 +17063,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what languages you can speak "]
+["what languages you can speak"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17088,7 +17088,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you speak [french](language) "]
+["you speak [french](language)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17133,12 +17133,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i do not care"]
+["i'do not care"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i don t care at all"]
+["i'don't care at all"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17153,7 +17153,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["don t care at all"]
+["don't care at all"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17248,7 +17248,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["don t do that"]
+["don't do that"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17348,7 +17348,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["nevermind forget about it"]
+["never mind forget about it"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17393,7 +17393,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["forget it nevermind"]
+["forget it never mind"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17478,7 +17478,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-[" disengage the self destruct mechanism"]
+["disengage the self destruct mechanism"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17493,7 +17493,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["stop the "]
+["stop the"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17508,7 +17508,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what should i do about it"]
+["what should i'do about it"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17673,7 +17673,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m glad"]
+["i'm glad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17733,12 +17733,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["long time no see"]
+["long ti'me no see"]
 true = 1
 false = 0
 lang = ["en",]
 
-["it s nice to see you"]
+["it's nice to see you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17748,7 +17748,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m glad to see you"]
+["i'm glad to see you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17758,7 +17758,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s good to see you"]
+["it's good to see you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17818,7 +17818,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s good to see you too"]
+["it's good to see you too"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17848,7 +17848,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["any suggestions "]
+["any suggestions"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17863,7 +17863,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["do you have any suggestions "]
+["do you have any suggestions"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17888,7 +17888,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i suggest you get out "]
+["i suggest you get out"]
 true = 1
 false = 0
 lang = ["en",]
@@ -17983,7 +17983,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s very nice of you"]
+["that's very nice of you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17993,12 +17993,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s amazing"]
+["it's amazing"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s awesome"]
+["that's awesome"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18008,22 +18008,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s great"]
+["that's great"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s good"]
+["it's good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s great"]
+["it's great"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s fine"]
+["that's fine"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18043,7 +18043,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s very good"]
+["that's very good"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18063,7 +18063,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s perfect"]
+["it's perfect"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18078,7 +18078,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s very good"]
+["it's very good"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18088,7 +18088,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s nice"]
+["that's nice"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18173,87 +18173,87 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s a good idea"]
+["that's a good idea"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s a good thing"]
+["that's a good thing"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s amazing"]
+["that's amazing"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s awesome thank you"]
+["that's awesome thank you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s better"]
+["that's better"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s cute"]
+["that's cute"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s fantastic"]
+["that's fantastic"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s much better"]
+["that's much better"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s nice of you"]
+["that's nice of you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s not bad"]
+["that's not bad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s perfect"]
+["that's perfect"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s pretty good"]
+["that's pretty good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s really good"]
+["that's really good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s really nice"]
+["that's really nice"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s sweet of you"]
+["that's sweet of you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s very nice"]
+["that's very nice"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s wonderful"]
+["that's wonderful"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18283,7 +18283,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m glad to hear that"]
+["i'm glad to hear that"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18328,17 +18328,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s awesome"]
+["it's awesome"]
 true = 0
 false = 1
 lang = ["en",]
 
-["okay good"]
+["o k good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["no it s okay"]
+["no it's o k"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18353,7 +18353,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["there s no problem"]
+["there's no problem"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18368,12 +18368,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["don t worry"]
+["don't worry"]
 true = 0
 false = 1
 lang = ["en",]
 
-["don t worry there s no problem"]
+["don't worry there's no problem"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18408,17 +18408,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s bad"]
+["that's bad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m afraid it s bad"]
+["i'm afraid it's bad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["no it s bad"]
+["no it's bad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18463,7 +18463,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s bad"]
+["it's bad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18483,22 +18483,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s lame"]
+["that's lame"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s not good"]
+["that's not good"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s terrible"]
+["that's terrible"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s too bad"]
+["that's too bad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18523,7 +18523,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s not good"]
+["it's not good"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18533,17 +18533,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["it s very bad"]
+["it's very bad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s too bad"]
+["it's too bad"]
 true = 0
 false = 1
 lang = ["en",]
 
-["that s not good enough"]
+["that's not good enough"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18558,7 +18558,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s so bad"]
+["it's so bad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18568,7 +18568,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s really bad"]
+["it's really bad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18588,7 +18588,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it s not so good"]
+["it's not so good"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18598,7 +18598,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["oh that s not good"]
+["oh that's not good"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18613,7 +18613,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s really bad"]
+["that's really bad"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18648,7 +18648,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i d like to ask you some stuff"]
+["i'd like to ask you some stuff"]
 true = 1
 false = 0
 lang = ["en",]
@@ -18838,37 +18838,37 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i am joking"]
+["i am jo king"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m kidding"]
+["i'm kidding"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m just being funny"]
+["i'm just being funny"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it was a joke"]
+["it was a jo ke"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i was just joking"]
+["i was just jo king"]
 true = 1
 false = 0
 lang = ["en",]
 
-["it s a joke"]
+["it's a jo ke"]
 true = 0
 false = 1
 lang = ["en",]
 
-[joking]
+[jo king]
 true = 1
 false = 0
 lang = ["en",]
@@ -18883,17 +18883,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m just playing with you"]
+["i'm just playing with you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["tell me a joke"]
+["tell me a jo ke"]
 true = 1
 false = 0
 lang = ["en",]
 
-["do know any jokes "]
+["do know any jo kes"]
 true = 1
 false = 0
 lang = ["en",]
@@ -18928,42 +18928,42 @@ true = 1
 false = 0
 lang = ["en",]
 
-["let s go to bed"]
+["let's go to bed"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i d like to go to bed"]
+["i'd like to go to bed"]
 true = 1
 false = 0
 lang = ["en",]
 
-["is it time for bed yet"]
+["is it ti'me for bed yet"]
 true = 1
 false = 0
 lang = ["en",]
 
-["it s time to go to bed"]
+["it's ti'me to go to bed"]
 true = 0
 false = 1
 lang = ["en",]
 
-["time for us to go to bed"]
+["ti'me for us to go to bed"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m going to bed"]
+["i'm going to bed"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m a little tired and i want to go to bed"]
+["i'm a little tired and i want to go to bed"]
 true = 0
 false = 1
 lang = ["en",]
 
-["it s bed time"]
+["it's bed ti'me"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18973,7 +18973,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i miss you"]
+["i'miss you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -18993,12 +18993,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i miss you much"]
+["i'miss you much"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i missed you"]
+["i'missed you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19028,7 +19028,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["thank now "]
+["thank now"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19048,7 +19048,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["could you thank me "]
+["could you thank me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19068,7 +19068,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m in your debt"]
+["i'm in your debt"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19078,7 +19078,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m grateful you know"]
+["i'm grateful you know"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19138,12 +19138,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ok thanks"]
+["o k thanks"]
 true = 1
 false = 0
 lang = ["en",]
 
-["ok thanks sara"]
+["o k thanks sara"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19178,7 +19178,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" i ll check it out"]
+["i ll check it out"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19338,7 +19338,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["no thank you that s all"]
+["no thank you that's all"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19463,12 +19463,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" can you help me with locating this restaurant"]
+["can you help me with locating this restaurant"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" can you give me the nearest fast food place"]
+["can you give me the nearest fast food place"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19483,7 +19483,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" find me some place to go"]
+["find me some place to go"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19503,12 +19503,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m gonna need help finding a restaurant"]
+["i'm gonna need help finding a restaurant"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i m looking for a spanish restaurant"]
+["i'm loo king for a spanish restaurant"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19553,12 +19553,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what s a good place to eat nearby"]
+["what's a good place to eat nearby"]
 true = 0
 false = 1
 lang = ["en",]
 
-["what s the closest restaurant open near me"]
+["what's the closest restaurant open near me"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19613,7 +19613,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m looking for a chinese restaurant"]
+["i'm loo king for a chinese restaurant"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19648,12 +19648,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["do you like me "]
+["do you like me"]
 true = 1
 false = 0
 lang = ["en",]
 
-["like me "]
+["like me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19733,7 +19733,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re special"]
+["you're special"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19743,7 +19743,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["okay i like you"]
+["o k i like you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19768,7 +19768,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s why i like you"]
+["that's why i like you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19798,7 +19798,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i do like you"]
+["i'do like you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19833,7 +19833,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s what i like about you"]
+["that's what i like about you"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19853,7 +19853,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re very special"]
+["you're very special"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19863,7 +19863,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["that s because you are special"]
+["that's because you are special"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19873,7 +19873,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re so special"]
+["you're so special"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19898,12 +19898,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m starting to like you"]
+["i'm starting to like you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["you re awesome i like you"]
+["you're awesome i like you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19923,7 +19923,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i like you too you re one of my favorite people to chat with"]
+["i like you too you're one of my favorite people to chat with"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19938,7 +19938,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re funny i like you"]
+["you're funny i like you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19948,12 +19948,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re so special to me"]
+["you're so special to me"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you re very special to me"]
+["you're very special to me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19968,12 +19968,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["okay i like you too"]
+["o k i like you too"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i like you you re cool"]
+["i like you you're cool"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19983,7 +19983,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i like you you re nice"]
+["i like you you're nice"]
 true = 1
 false = 0
 lang = ["en",]
@@ -20123,7 +20123,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["why don t you talk to me"]
+["why don't you talk to me"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20138,17 +20138,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["let s discuss something"]
+["let's discuss something"]
 true = 0
 false = 1
 lang = ["en",]
 
-["let s have a discussion"]
+["let's have a discussion"]
 true = 0
 false = 1
 lang = ["en",]
 
-["let s talk"]
+["let's talk"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20208,7 +20208,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["can you help me "]
+["can you help me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -20233,7 +20233,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["can you see what i look like"]
+["can you see what i loo k like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -20243,7 +20243,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["and that s it"]
+["and that's it"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20258,27 +20258,27 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you re not helping me"]
+["you're not helping me"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" you promised to contact me"]
+["you promised to contact me"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" but nobody did"]
+["but nobody did"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" i really need to finish that car insurance bot"]
+["i really need to finish that car insurance bot"]
 true = 1
 false = 0
 lang = ["en",]
 
-["hm i don t think you can do what i want"]
+["hm i'don't think you can do what i want"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20293,17 +20293,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["ok i guess you can t help me"]
+["o k i guess you can t help me"]
 true = 0
 false = 1
 lang = ["en",]
 
-["ok then you cant help me"]
+["o k then you cant help me"]
 true = 1
 false = 0
 lang = ["en",]
 
-[" but that doesnt help me"]
+["but that doesnt help me"]
 true = 1
 false = 0
 lang = ["en",]
@@ -20313,12 +20313,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-[" you re not helping"]
+["you're not helping"]
 true = 1
 false = 0
 lang = ["en",]
 
-["that s not what i want"]
+["that's not what i want"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20358,12 +20358,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i m insomnious"]
+["i'm insomnious"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m sleepless"]
+["i'm sleepless"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20393,7 +20393,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i m insomniac"]
+["i'm insomniac"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20408,37 +20408,37 @@ true = 0
 false = 1
 lang = ["en",]
 
-["bad time for talking"]
+["bad ti'me for talking"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i don t want to talk"]
+["i'don't want to talk"]
 true = 0
 false = 1
 lang = ["en",]
 
-["let s not talk"]
+["let's not talk"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m not talking to you anymore"]
+["i'm not talking to you anymore"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i don t want to talk to you"]
+["i'don't want to talk to you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["let s stop talking for a minute"]
+["let's stop talking for a minute"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i m not in the mood for chatting"]
+["i'm not in the mood for chatting"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20448,12 +20448,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you don t have the right to talk"]
+["you don't have the right to talk"]
 true = 0
 false = 1
 lang = ["en",]
 
-["don t talk"]
+["don't talk"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20578,7 +20578,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-[" "]
+[""]
 true = 0
 false = 1
 lang = ["en",]
