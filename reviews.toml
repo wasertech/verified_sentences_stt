@@ -20323,11 +20323,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-[""]
-true = 0
-false = 1
-lang = ["en",]
-
 [a]
 true = 0
 false = 1
