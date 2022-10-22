@@ -11623,11 +11623,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["o k"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["o kie do kie"]
 true = 0
 false = 1
