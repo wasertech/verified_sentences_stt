@@ -3,7 +3,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["loo kup something on the internet"]
+["lookup something on the internet"]
 true = 1
 false = 0
 lang = ["en",]
@@ -23,7 +23,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["can you loo kup something for me please"]
+["can you lookup something for me please"]
 true = 1
 false = 0
 lang = ["en",]
@@ -43,7 +43,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["can you help me loo k for something"]
+["can you help me look for something"]
 true = 1
 false = 0
 lang = ["en",]
@@ -88,7 +88,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[ask](search engine) how long does it take to heal a bro ken arm"]
+["[ask](search engine) how long does it take to heal a broken arm"]
 true = 0
 false = 1
 lang = ["en",]
@@ -598,12 +598,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to hack faceboo k account"]
+["how to hack facebook account"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to delete faceboo k account"]
+["how to delete facebook account"]
 true = 1
 false = 0
 lang = ["en",]
@@ -668,7 +668,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to coo k quinoa"]
+["how to cook quinoa"]
 true = 1
 false = 0
 lang = ["en",]
@@ -718,7 +718,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k spaghetti squash"]
+["how to cook spaghetti squash"]
 true = 1
 false = 0
 lang = ["en",]
@@ -733,7 +733,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k asparagus"]
+["how to cook asparagus"]
 true = 1
 false = 0
 lang = ["en",]
@@ -768,7 +768,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k rice"]
+["how to cook rice"]
 true = 1
 false = 0
 lang = ["en",]
@@ -918,7 +918,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k a turkey"]
+["how to cook a turkey"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1218,7 +1218,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k salmon"]
+["how to cook salmon"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1233,7 +1233,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how long to coo k a turkey"]
+["how long to cook a turkey"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1373,7 +1373,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to download videos from faceboo k"]
+["how to download videos from facebook"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1603,7 +1603,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what do bed bugs loo k like"]
+["what do bed bugs look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1643,7 +1643,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to make coo kies"]
+["how to make cookies"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1688,12 +1688,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to draw po kemon"]
+["how to draw pokemon"]
 true = 0
 false = 1
 lang = ["en",]
 
-["how to hack faceboo k"]
+["how to hack facebook"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1763,7 +1763,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["who viewed my faceboo k profile"]
+["who viewed my facebook profile"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1863,12 +1863,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to download faceboo k video"]
+["how to download facebook video"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to deactivate faceboo k"]
+["how to deactivate facebook"]
 true = 1
 false = 0
 lang = ["en",]
@@ -1923,7 +1923,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to hack a faceboo k account"]
+["how to hack a facebook account"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2083,7 +2083,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k brown rice"]
+["how to cook brown rice"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2108,7 +2108,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how many po kemon are there"]
+["how many pokemon are there"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2153,7 +2153,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to deactivate faceboo k account"]
+["how to deactivate facebook account"]
 true = 0
 false = 1
 lang = ["en",]
@@ -2393,7 +2393,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k sweet potatoes"]
+["how to cook sweet potatoes"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2503,7 +2503,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k corn on the cob"]
+["how to cook corn on the cob"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2578,12 +2578,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how old do i loo k"]
+["how old do i look"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k bacon in the oven"]
+["how to cook bacon in the oven"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2623,7 +2623,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what will my baby loo k like"]
+["what will my baby look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2688,7 +2688,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k steak"]
+["how to cook steak"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2743,7 +2743,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what do bed bugs bites loo k like"]
+["what do bed bugs bites look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2848,7 +2848,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to enable coo kies"]
+["how to enable cookies"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2868,12 +2868,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["who deleted me on faceboo k"]
+["who deleted me on facebook"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k chicken breast"]
+["how to cook chicken breast"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3018,7 +3018,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to coo k steaks"]
+["how to cook steaks"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3028,7 +3028,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what po kemon are you"]
+["what pokemon are you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3298,7 +3298,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k lobster tail"]
+["how to cook lobster tail"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3338,7 +3338,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to unblock someone on faceboo k"]
+["how to unblock someone on facebook"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3493,7 +3493,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k lobster tails"]
+["how to cook lobster tails"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3553,12 +3553,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k pork chops"]
+["how to cook pork chops"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k broccoli"]
+["how to cook broccoli"]
 true = 1
 false = 0
 lang = ["en",]
@@ -3813,7 +3813,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k kale"]
+["how to cook kale"]
 true = 0
 false = 1
 lang = ["en",]
@@ -4003,12 +4003,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k lentils"]
+["how to cook lentils"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what do lice loo k like"]
+["what do lice look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4198,7 +4198,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to delete a faceboo k account"]
+["how to delete a facebook account"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4258,7 +4258,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to coo k pasta"]
+["how to cook pasta"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4273,7 +4273,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k butternut squash"]
+["how to cook butternut squash"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4323,7 +4323,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to coo k bacon"]
+["how to cook bacon"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4338,7 +4338,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k cabbage"]
+["how to cook cabbage"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4348,12 +4348,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to hack po kemon go"]
+["how to hack pokemon go"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what does poison ivy loo k like"]
+["what does poison ivy look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4393,7 +4393,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k brussel sprouts"]
+["how to cook brussel sprouts"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4463,7 +4463,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to change your name on faceboo k"]
+["how to change your name on facebook"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4538,7 +4538,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k that"]
+["how to cook that"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4563,7 +4563,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to make chocolate chip coo kies"]
+["how to make chocolate chip cookies"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4698,7 +4698,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what does lice loo k like"]
+["what does lice look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4793,7 +4793,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what celebrity do i loo k like"]
+["what celebrity do i look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4883,12 +4883,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k shri'mp"]
+["how to cook shri'mp"]
 true = 1
 false = 0
 lang = ["en",]
 
-["how to coo k a ham"]
+["how to cook a ham"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4938,7 +4938,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how to coo k chicken"]
+["how to cook chicken"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4978,7 +4978,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what does herpes loo k like"]
+["what does herpes look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6588,7 +6588,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["faceboo k andd twilio"]
+["facebook andd twilio"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6613,7 +6613,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["but loo king for low cost alternative to proof of concept"]
+["but looking for low cost alternative to proof of concept"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10153,7 +10153,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i think it's bro ken"]
+["i think it's broken"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10163,7 +10163,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["[playground](product) is bro ken"]
+["[playground](product) is broken"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10178,7 +10178,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["it's bro ken"]
+["it's broken"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10458,12 +10458,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["do you know what i loo k like"]
+["do you know what i look like"]
 true = 1
 false = 0
 lang = ["en",]
 
-["do you know how i loo k like"]
+["do you know how i look like"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11623,7 +11623,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["o kie do kie"]
+["okie dokie"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11828,7 +11828,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["loo ks good"]
+["looks good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -12273,7 +12273,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["o ki do ki"]
+["oki doki"]
 true = 0
 false = 1
 lang = ["en",]
@@ -12648,27 +12648,27 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how do i loo k"]
+["how do i look"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what do i loo k like"]
+["what do i look like"]
 true = 1
 false = 0
 lang = ["en",]
 
-["do i loo k good"]
+["do i look good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["what do you think i loo k like"]
+["what do you think i look like"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i'magine how i loo k"]
+["i'magine how i look"]
 true = 1
 false = 0
 lang = ["en",]
@@ -13983,7 +13983,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["what's coo king"]
+["what's cooking"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15028,7 +15028,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["super sto ked"]
+["super stroked"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15213,7 +15213,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["crappy jo ke"]
+["crappy joke"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15778,7 +15778,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you're loo king good today"]
+["you're looking good today"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15788,12 +15788,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you loo k amazing"]
+["you look amazing"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k so good"]
+["you look so good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15808,17 +15808,17 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you loo k great"]
+["you look great"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k so well"]
+["you look so well"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i like the way you loo k now"]
+["i like the way you look now"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15853,37 +15853,37 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you are loo king awesome"]
+["you are looking awesome"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k amazing today"]
+["you look amazing today"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are loo king beautiful today"]
+["you are looking beautiful today"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are loo king great"]
+["you are looking great"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are loo king pretty"]
+["you are looking pretty"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are loo king so beautiful"]
+["you are looking so beautiful"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you are loo king so good"]
+["you are looking so good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15958,67 +15958,67 @@ true = 1
 false = 0
 lang = ["en",]
 
-["you loo k awesome"]
+["you look awesome"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k cool"]
+["you look cool"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k fantastic"]
+["you look fantastic"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k gorgeous"]
+["you look gorgeous"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k great today"]
+["you look great today"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k perfect"]
+["you look perfect"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k pretty good"]
+["you look pretty good"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k so beautiful"]
+["you look so beautiful"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k so beautiful today"]
+["you look so beautiful today"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k very pretty"]
+["you look very pretty"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k wonderful"]
+["you look wonderful"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i like the way you loo k"]
+["i like the way you look"]
 true = 1
 false = 0
 lang = ["en",]
 
-["you loo k wonderful today"]
+["you look wonderful today"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16028,7 +16028,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["you're loo king good"]
+["you're looking good"]
 true = 1
 false = 0
 lang = ["en",]
@@ -18603,7 +18603,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i am jo king"]
+["i am joking"]
 true = 1
 false = 0
 lang = ["en",]
@@ -18618,17 +18618,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["it was a jo ke"]
+["it was a joke"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i was just jo king"]
+["i was just joking"]
 true = 1
 false = 0
 lang = ["en",]
 
-["it's a jo ke"]
+["it's a joke"]
 true = 0
 false = 1
 lang = ["en",]
@@ -18659,8 +18659,8 @@ false = 0
 lang = ["en",]
 
 ["do know any jokes"]
-true = 1
-false = 0
+true = 0
+false = 1
 lang = ["en",]
 
 ["i want to laugh"]
@@ -19258,7 +19258,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'm loo king for a spanish restaurant"]
+["i'm looking for a spanish restaurant"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19363,7 +19363,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'm loo king for a chinese restaurant"]
+["i'm looking for a chinese restaurant"]
 true = 0
 false = 1
 lang = ["en",]
@@ -19978,7 +19978,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["can you see what i loo k like"]
+["can you see what i look like"]
 true = 1
 false = 0
 lang = ["en",]
