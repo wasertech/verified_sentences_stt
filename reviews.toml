@@ -11623,7 +11623,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[o k]
+["o k"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11996,11 +11996,6 @@ lang = ["en",]
 [oh]
 true = 1
 false = 0
-lang = ["en",]
-
-["o k"]
-true = 0
-false = 1
 lang = ["en",]
 
 ["o k let's start"]
