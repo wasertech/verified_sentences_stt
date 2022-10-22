@@ -6968,11 +6968,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'm a [full stack developer](job function)"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["it is drew@mccarthycom"]
 true = 0
 false = 1
