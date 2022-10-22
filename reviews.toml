@@ -15428,11 +15428,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'm good"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["i'm doing good"]
 true = 0
 false = 1
