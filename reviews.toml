@@ -12018,11 +12018,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i accept"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["a little"]
 true = 1
 false = 0
