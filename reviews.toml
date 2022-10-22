@@ -18949,11 +18949,6 @@ false = 0
 lang = ["en",]
 
 ["thanks you"]
-true = 1
-false = 0
-lang = ["en",]
-
-[thankyou]
 true = 0
 false = 1
 lang = ["en",]
