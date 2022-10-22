@@ -17628,11 +17628,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["any suggestions"]
-true = 1
-false = 0
-lang = ["en",]
-
 [suggestion]
 true = 1
 false = 0
