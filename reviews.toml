@@ -13833,11 +13833,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how's it going"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["how is your morning so far"]
 true = 1
 false = 0
