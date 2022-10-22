@@ -19898,11 +19898,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["let's talk"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["i want to talk to you"]
 true = 1
 false = 0
