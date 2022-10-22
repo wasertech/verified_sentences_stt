@@ -10803,11 +10803,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i don't want to"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["i don't want to accept p lol"]
 true = 0
 false = 1
