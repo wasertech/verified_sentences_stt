@@ -14433,11 +14433,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-[bot]
-true = 1
-false = 0
-lang = ["en",]
-
 ["cuz you are a bot"]
 true = 0
 false = 1
