@@ -5413,11 +5413,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-[hi]
-true = 1
-false = 0
-lang = ["en",]
-
 [bot]
 true = 1
 false = 0
