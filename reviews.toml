@@ -12273,11 +12273,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["o k cool"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["o k sure"]
 true = 1
 false = 0
