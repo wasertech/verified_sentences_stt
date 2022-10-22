@@ -6208,11 +6208,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i don't wanna talk to a bot"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["i want to speak to a [manager](job function)"]
 true = 0
 false = 1
