@@ -17798,11 +17798,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["that's fine"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["very good"]
 true = 1
 false = 0
