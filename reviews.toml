@@ -18633,7 +18633,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-[jo king]
+[joking]
 true = 1
 false = 0
 lang = ["en",]
@@ -18653,12 +18653,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["tell me a jo ke"]
+["tell me a joke"]
 true = 1
 false = 0
 lang = ["en",]
 
-["do know any jo kes"]
+["do know any jokes"]
 true = 1
 false = 0
 lang = ["en",]
