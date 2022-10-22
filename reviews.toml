@@ -5308,6 +5308,15 @@ true = 1
 false = 0
 lang = ["en",]
 
+["hi'"]
+true = 0
+false = 1
+lang = ["en",]
+
+["okbye'"]
+true = 0
+false = 1
+
 ["hello there"]
 true = 1
 false = 0
@@ -5318,9 +5327,9 @@ true = 0
 false = 1
 lang = ["en",]
 
-["lovely day isn t it"]
-true = 0
-false = 1
+["lovely day isn't it"]
+true = 1
+false = 0
 lang = ["en",]
 
 ["hey there"]
@@ -6134,6 +6143,11 @@ false = 1
 lang = ["en",]
 
 ["i don't wanna talk to a bot"]
+true = 1
+false = 0
+lang = ["en",]
+
+["i dont wanna talk to a bot"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6141,6 +6155,11 @@ lang = ["en",]
 ["i don't like to talk to a machine"]
 true = 1
 false = 0
+lang = ["en",]
+
+["i dont like to talk to a machine"]
+true = 0
+false = 1
 lang = ["en",]
 
 ["i want to talk to a human"]
@@ -6313,6 +6332,11 @@ true = 1
 false = 0
 lang = ["en",]
 
+["thats not helping"]
+true = 0
+false = 1
+lang = ["en",]
+
 ["can i talk to human"]
 true = 1
 false = 0
@@ -6391,11 +6415,6 @@ lang = ["en",]
 ["i want human ("]
 true = 0
 false = 1
-lang = ["en",]
-
-["i want to talk to a human \\"]
-true = 1
-false = 0
 lang = ["en",]
 
 ["i want to speak to human"]
