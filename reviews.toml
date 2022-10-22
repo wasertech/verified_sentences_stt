@@ -14588,12 +14588,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["so i'm here today to ask one very si'mple question"]
-true = 1
-false = 0
-lang = ["en",]
-
-["what are you"]
+["so i'm here today to ask one very simple question"]
 true = 1
 false = 0
 lang = ["en",]
