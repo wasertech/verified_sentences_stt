@@ -15058,11 +15058,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-[cool]
-true = 0
-false = 1
-lang = ["en",]
-
 ["cool )"]
 true = 0
 false = 1
