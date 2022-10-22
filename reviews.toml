@@ -14553,16 +14553,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["are you a human"]
-true = 1
-false = 0
-lang = ["en",]
-
-["are you human"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["are you a human being"]
 true = 1
 false = 0
