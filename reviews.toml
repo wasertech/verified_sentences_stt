@@ -14533,11 +14533,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["are you a human"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["you are bot or human"]
 true = 1
 false = 0
