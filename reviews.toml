@@ -5908,11 +5908,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["o k bye"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["see u later"]
 true = 0
 false = 1
