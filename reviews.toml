@@ -10748,7 +10748,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-[never mind]
+["never mind"]
 true = 1
 false = 0
 lang = ["en",]
