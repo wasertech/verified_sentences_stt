@@ -13543,11 +13543,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how are you today"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["how was your day"]
 true = 1
 false = 0
