@@ -6383,11 +6383,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["can i talk to human"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["talk to human"]
 true = 1
 false = 0
