@@ -8528,11 +8528,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'm in [marketing](job function)"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["i'm lonely"]
 true = 0
 false = 1
