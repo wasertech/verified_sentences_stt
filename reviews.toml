@@ -13628,19 +13628,9 @@ true = 1
 false = 0
 lang = ["en",]
 
-["are you o k"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["h r u"]
 true = 0
 false = 1
-lang = ["en",]
-
-["how are you"]
-true = 1
-false = 0
 lang = ["en",]
 
 ["hey how are you"]
