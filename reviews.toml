@@ -12403,11 +12403,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["why not"]
-true = 1
-false = 0
-lang = ["en",]
-
 [yeeeeezzzzz]
 true = 0
 false = 1
