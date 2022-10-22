@@ -6158,12 +6158,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'don't wanna talk to a bot"]
+["i don't wanna talk to a bot"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'dont like to talk to a machine"]
+["i don't like to talk to a machine"]
 true = 1
 false = 0
 lang = ["en",]
@@ -6233,7 +6233,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'dont wanna talk to a bot"]
+["i don't wanna talk to a bot"]
 true = 0
 false = 1
 lang = ["en",]
@@ -6698,7 +6698,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'do not know yet"]
+["i do not know yet"]
 true = 1
 false = 0
 lang = ["en",]
@@ -8403,17 +8403,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'don't have one"]
+["i don't have one"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'don't have it"]
+["i don't have it"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'don't know"]
+["i don't know"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10268,7 +10268,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["[rasa x](product) never loads and i'don't know why"]
+["[rasa x](product) never loads and i don't know why"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10613,7 +10613,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i ll wait you"]
+["i'll wait you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10648,7 +10648,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i ll wait"]
+["i'll wait"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10723,7 +10723,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["dont say a word about it"]
+["don't say a word about it"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10738,14 +10738,14 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'don't think so"]
+["i don't think so"]
 true = 0
 false = 1
 lang = ["en",]
 
 ["don't like that"]
-true = 0
-false = 1
+true = 1
+false = 0
 lang = ["en",]
 
 ["no way"]
@@ -10763,22 +10763,22 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'don't want to"]
+["i don't want to"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'don't want to give it to you"]
+["i don't want to give it to you"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'don't want to say"]
+["i don't want to say"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'dont want to tell"]
+["i don't want to tell"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10848,7 +10848,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'decline"]
+["i decline"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10858,22 +10858,22 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'don't want either of those"]
+["i don't want either of those"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'don't want to give you my email"]
+["i don't want to give you my email"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'dont want to"]
-true = 0
-false = 1
+["i don't want to"]
+true = 1
+false = 0
 lang = ["en",]
 
-["i'dont want to accept p lol"]
+["i don't want to accept p lol"]
 true = 0
 false = 1
 lang = ["en",]
@@ -10948,7 +10948,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["no i'dont want"]
+["no i don't want"]
 true = 1
 false = 0
 lang = ["en",]
@@ -10978,17 +10978,17 @@ true = 0
 false = 1
 lang = ["en",]
 
-["no i'don't accept"]
+["no i don't accept"]
 true = 0
 false = 1
 lang = ["en",]
 
-["no i'dont want to"]
+["no i don't want to"]
 true = 0
 false = 1
 lang = ["en",]
 
-["no i'dont want to accept p lol"]
+["no i don't want to accept p lol"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11054,9 +11054,9 @@ false = 1
 lang = ["en",]
 
 [non]
-true = 0
+true = 1
 false = 1
-lang = ["en",]
+lang = ["en","fr"]
 
 [noooooooooo]
 true = 0
@@ -11103,7 +11103,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["still dont want to tell"]
+["still don't want to tell"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11118,12 +11118,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'do not need help installing"]
+["i do not need help installing"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i'don't wanna tell the name of my company"]
+["i don't wanna tell the name of my company"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11138,7 +11138,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'do not care"]
+["i do not care"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11148,7 +11148,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'don't agree"]
+["i don't agree"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11168,12 +11168,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'don't want that"]
+["i don't want that"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'disagree"]
+["i disagree"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11183,7 +11183,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'don't want"]
+["i don't want"]
 true = 0
 false = 1
 lang = ["en",]
@@ -11198,9 +11198,9 @@ true = 0
 false = 1
 lang = ["en",]
 
-["no i'don't"]
-true = 0
-false = 1
+["no i don't"]
+true = 1
+false = 0
 lang = ["en",]
 
 ["i'm not"]
@@ -11533,7 +11533,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'do"]
+["i do"]
 true = 1
 false = 0
 lang = ["en",]
@@ -11699,13 +11699,13 @@ false = 0
 lang = ["en",]
 
 [o k]
-true = 0
-false = 1
+true = 1
+false = 0
 lang = ["en",]
 
 ["o kie do kie"]
-true = 1
-false = 0
+true = 0
+false = 1
 lang = ["en",]
 
 [sure]
@@ -11719,8 +11719,8 @@ false = 0
 lang = ["en",]
 
 [yeah]
-true = 0
-false = 1
+true = 1
+false = 0
 lang = ["en",]
 
 [yea]
@@ -11739,8 +11739,8 @@ false = 0
 lang = ["en",]
 
 ["yeah sure"]
-true = 0
-false = 1
+true = 1
+false = 0
 lang = ["en",]
 
 ["why not"]
@@ -11758,9 +11758,9 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'don't mind"]
-true = 0
-false = 1
+["i don't mind"]
+true = 1
+false = 0
 lang = ["en",]
 
 [certainly]
@@ -11794,8 +11794,8 @@ false = 0
 lang = ["en",]
 
 ["o k then"]
-true = 0
-false = 1
+true = 1
+false = 0
 lang = ["en",]
 
 ["yes of course"]
@@ -11803,14 +11803,14 @@ true = 1
 false = 0
 lang = ["en",]
 
-["yes i'do"]
+["yes i do"]
 true = 1
 false = 0
 lang = ["en",]
 
 ["that's o k"]
-true = 0
-false = 1
+true = 1
+false = 0
 lang = ["en",]
 
 [yup]
@@ -12373,7 +12373,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["o ki'do ki"]
+["o ki do ki"]
 true = 0
 false = 1
 lang = ["en",]
@@ -14368,7 +14368,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'don't have ti'me for this"]
+["i don't have ti'me for this"]
 true = 0
 false = 1
 lang = ["en",]
@@ -15328,7 +15328,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'don't feel very well"]
+["i don't feel very well"]
 true = 1
 false = 0
 lang = ["en",]
@@ -15503,12 +15503,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'don't care"]
+["i don't care"]
 true = 0
 false = 1
 lang = ["en",]
 
-["i'dont like bots"]
+["i don't like bots"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16383,7 +16383,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'don't think you're fake"]
+["i don't think you're fake"]
 true = 0
 false = 1
 lang = ["en",]
@@ -16543,7 +16543,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i ll get back to you in a moment"]
+["i'll get back to you in a moment"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16553,7 +16553,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i ll be back"]
+["i'll be back"]
 true = 1
 false = 0
 lang = ["en",]
@@ -16563,7 +16563,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i ll be back in a few [minutes](ti'me unit)"]
+["i'll be back in a few [minutes](ti'me unit)"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17133,12 +17133,12 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'do not care"]
+["i do not care"]
 true = 1
 false = 0
 lang = ["en",]
 
-["i'don't care at all"]
+["i don't care at all"]
 true = 0
 false = 1
 lang = ["en",]
@@ -17508,7 +17508,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what should i'do about it"]
+["what should i do about it"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19008,7 +19008,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i ll miss you"]
+["i'll miss you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19178,7 +19178,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i ll check it out"]
+["i'll check it out"]
 true = 1
 false = 0
 lang = ["en",]
@@ -19798,7 +19798,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'do like you"]
+["i do like you"]
 true = 1
 false = 0
 lang = ["en",]
@@ -20278,7 +20278,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["hm i'don't think you can do what i want"]
+["hm i don't think you can do what i want"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20413,7 +20413,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i'don't want to talk"]
+["i don't want to talk"]
 true = 0
 false = 1
 lang = ["en",]
@@ -20428,7 +20428,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["i'don't want to talk to you"]
+["i don't want to talk to you"]
 true = 0
 false = 1
 lang = ["en",]
