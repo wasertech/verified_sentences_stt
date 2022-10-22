@@ -14458,11 +14458,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["a bot"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["you are a robot"]
 true = 1
 false = 0
