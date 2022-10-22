@@ -12284,13 +12284,13 @@ false = 0
 lang = ["en",]
 
 ["o k cool"]
-true = 0
-false = 1
+true = 1
+false = 0
 lang = ["en",]
 
 ["o k sure"]
-true = 0
-false = 1
+true = 1
+false = 0
 lang = ["en",]
 
 ["o ki do ki"]
@@ -12298,12 +12298,12 @@ true = 0
 false = 1
 lang = ["en",]
 
-[o kie]
+["o kie"]
 true = 0
 false = 1
 lang = ["en",]
 
-[oo k]
+["ook"]
 true = 0
 false = 1
 lang = ["en",]
