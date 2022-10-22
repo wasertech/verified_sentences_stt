@@ -5908,9 +5908,9 @@ true = 1
 false = 0
 lang = ["en",]
 
-[o kbye]
-true = 0
-false = 1
+["o k bye"]
+true = 1
+false = 0
 lang = ["en",]
 
 ["see u later"]
@@ -5919,8 +5919,8 @@ false = 1
 lang = ["en",]
 
 ["see ya"]
-true = 1
-false = 0
+true = 0
+false = 1
 lang = ["en",]
 
 ["see you"]
