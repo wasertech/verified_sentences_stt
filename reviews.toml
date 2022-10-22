@@ -18103,11 +18103,6 @@ true = 0
 false = 1
 lang = ["en",]
 
-["o k good"]
-true = 0
-false = 1
-lang = ["en",]
-
 ["no it's o k"]
 true = 0
 false = 1
