@@ -14358,11 +14358,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["are you the bot"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["are you a skynet"]
 true = 1
 false = 0
