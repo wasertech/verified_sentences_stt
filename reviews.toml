@@ -983,7 +983,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what to expect when you're expecting"]
+["what to expect when you re expecting"]
 true = 0
 false = 1
 lang = ["en",]
@@ -1958,7 +1958,7 @@ true = 0
 false = 1
 lang = ["en",]
 
-["how much water should i'drink a day"]
+["how much water should i drink a day"]
 true = 1
 false = 0
 lang = ["en",]
@@ -2033,7 +2033,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["what is a ri'm job"]
+["what is a rim job"]
 true = 0
 false = 1
 lang = ["en",]
@@ -2178,7 +2178,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to quit smo king"]
+["how to quit smoking"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4883,7 +4883,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how to cook shri'mp"]
+["how to cook shrimp"]
 true = 1
 false = 0
 lang = ["en",]
