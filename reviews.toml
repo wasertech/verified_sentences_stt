@@ -1438,7 +1438,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["how much water should i'drink"]
+["how much water should i drink"]
 true = 1
 false = 0
 lang = ["en",]
@@ -4098,7 +4098,7 @@ true = 1
 false = 0
 lang = ["en",]
 
-["\"what is parkinson\\u2019s disease\""]
+["what is parkinson\\u2019s disease"]
 true = 0
 false = 1
 lang = ["en",]
