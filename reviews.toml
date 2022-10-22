@@ -13768,11 +13768,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["is everything o k"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["i'm good"]
 true = 0
 false = 1
