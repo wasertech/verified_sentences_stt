@@ -6378,11 +6378,6 @@ true = 1
 false = 0
 lang = ["en",]
 
-["i want to talk to human"]
-true = 1
-false = 0
-lang = ["en",]
-
 ["can you hand a conversation over to a human"]
 true = 1
 false = 0
