@@ -1,6 +1,6 @@
 # Verified Sentences for STT
 
-Verified sentenced for STT uses, by Data Manager.
+Verified sentences for STT uses, by Data Manager.
 
 
 ## Small sample
