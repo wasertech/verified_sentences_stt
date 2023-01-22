@@ -12,7 +12,7 @@ Users are presented with some sentences from the NLU data.
 Their role is to determine if the sentences can be used to train a language model for STT.
 
 If a sentence is usable, then it is accepted (`true += 1`).
-Else it is rejected (`false =+ 1`).
+Else it is rejected (`false += 1`).
 
 At the end of the process users can share their results.
 
