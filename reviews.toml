@@ -4098,7 +4098,7 @@ true = 3
 false = 0
 lang = [ "en",]
 
-["what is parkinson\\\\\\\\u2019s disease"]
+["what is parkinson\\\\\\\\\\\\\\\\u2019s disease"]
 true = 0
 false = 3
 lang = [ "en",]
@@ -5224,7 +5224,7 @@ false = 0
 lang = [ "en",]
 
 [pardon]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -5294,12 +5294,12 @@ false = 3
 lang = [ "en",]
 
 [hey]
-true = 0
+true = 1
 false = 3
 lang = [ "en",]
 
 [hello]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -5738,12 +5738,12 @@ false = 0
 lang = [ "en",]
 
 [salut]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
 [yo]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -5773,7 +5773,7 @@ false = 3
 lang = [ "en",]
 
 [bye]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -5913,7 +5913,7 @@ false = 0
 lang = [ "en",]
 
 ["o k"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -6398,7 +6398,7 @@ false = 0
 lang = [ "en",]
 
 [no]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -10688,7 +10688,7 @@ lang = [ "en",]
 
 [n]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [never]
@@ -10717,7 +10717,7 @@ false = 0
 lang = [ "en",]
 
 [nope]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -10752,13 +10752,13 @@ false = 0
 lang = [ "en",]
 
 [nein]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
 [nah]
 true = 3
-false = 0
+false = 1
 lang = [ "en",]
 
 [neither]
@@ -10857,7 +10857,7 @@ false = 3
 lang = [ "en",]
 
 [na]
-true = 0
+true = 1
 false = 3
 lang = [ "en",]
 
@@ -10997,7 +10997,7 @@ false = 3
 lang = [ "en",]
 
 [non]
-true = 1
+true = 2
 false = 3
 lang = [ "en", "fr",]
 
@@ -11403,12 +11403,12 @@ lang = [ "en",]
 
 [yes]
 true = 3
-false = 0
+false = 1
 lang = [ "en",]
 
 [y]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [indeed]
@@ -11427,7 +11427,7 @@ false = 0
 lang = [ "en",]
 
 [correct]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -11643,7 +11643,7 @@ lang = [ "en",]
 
 ["okie dokie"]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [sure]
@@ -11658,7 +11658,7 @@ lang = [ "en",]
 
 [yeah]
 true = 3
-false = 0
+false = 1
 lang = [ "en",]
 
 [yea]
@@ -11778,7 +11778,7 @@ lang = [ "en",]
 
 [k]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["sure why not"]
@@ -11997,7 +11997,7 @@ false = 0
 lang = [ "en",]
 
 [nice]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -12287,7 +12287,7 @@ false = 0
 lang = [ "en",]
 
 [assistant]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -12307,7 +12307,7 @@ false = 3
 lang = [ "en",]
 
 [oui]
-true = 1
+true = 2
 false = 3
 lang = [ "en", "fr",]
 
@@ -14982,7 +14982,7 @@ false = 0
 lang = [ "en",]
 
 ["you're so funny"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -15112,7 +15112,7 @@ false = 0
 lang = [ "en",]
 
 [super]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -16627,7 +16627,7 @@ false = 0
 lang = [ "en",]
 
 ["no problemo"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -16962,18 +16962,18 @@ false = 0
 lang = [ "en",]
 
 [cancel]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
 [abort]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
 [annul]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [cancelled]
@@ -16982,7 +16982,7 @@ false = 0
 lang = [ "en",]
 
 [dismiss]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -17062,17 +17062,17 @@ false = 0
 lang = [ "en",]
 
 ["forget this"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
 ["just forget about it"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
 ["forget about that"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -17688,26 +17688,26 @@ lang = [ "en",]
 
 ["homework you do"]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["respond homework you do"]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["do my homework please"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
 ["help me cheat with my homwork"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
 ["you can do my homeworks"]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -17757,7 +17757,7 @@ false = 0
 lang = [ "en",]
 
 [bravo]
-true = 3
+true = 4
 false = 0
 lang = [ "en",]
 
@@ -20163,7 +20163,7 @@ lang = [ "en",]
 
 [afk]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["can t talk rn"]
@@ -20328,92 +20328,92 @@ lang = [ "en",]
 
 [e]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [l]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [o]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [a]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [s]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [i]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [t]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["("]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [m]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [")"]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [r]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [j]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [g]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [b]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [c]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [d]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [u]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [p]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [z]
@@ -20423,7 +20423,7 @@ lang = [ "en",]
 
 [w]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [f]
@@ -20433,12 +20433,12 @@ lang = [ "en",]
 
 [v]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 [x]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["’"]
@@ -20453,22 +20453,22 @@ lang = [ "en",]
 
 [q]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["é"]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["ô"]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["à"]
 true = 0
-false = 3
+false = 4
 lang = [ "en",]
 
 ["what is parkinsonu2019s disease"]
@@ -20868,7 +20868,7 @@ lang = "en"
 
 ["'"]
 true = 0
-false = 2
+false = 3
 lang = "en"
 
 ["how far is the sun from the earth"]
@@ -20912,7 +20912,7 @@ false = 1
 lang = "en"
 
 [clear]
-true = 1
+true = 2
 false = 0
 lang = "en"
 
@@ -20953,7 +20953,7 @@ lang = "en"
 
 [cls]
 true = 0
-false = 1
+false = 2
 lang = "en"
 
 ["cls()"]
@@ -21023,7 +21023,7 @@ lang = "en"
 
 [cd]
 true = 0
-false = 1
+false = 2
 lang = "en"
 
 ["cd [documents](as path)"]
@@ -21172,7 +21172,7 @@ false = 0
 lang = "en"
 
 ["what time is this"]
-true = 1
+true = 2
 false = 0
 lang = "en"
 
@@ -21427,12 +21427,12 @@ false = 1
 lang = "en"
 
 [printenv]
-true = 0
+true = 1
 false = 1
 lang = "en"
 
 ["echo dollars env"]
-true = 1
+true = 2
 false = 0
 lang = "en"
 
@@ -21447,7 +21447,7 @@ false = 0
 lang = "en"
 
 ["show env"]
-true = 1
+true = 2
 false = 0
 lang = "en"
 
@@ -21718,12 +21718,12 @@ lang = "en"
 
 [pwd]
 true = 0
-false = 1
+false = 2
 lang = "en"
 
 ["echo dollars pwd"]
 true = 0
-false = 1
+false = 2
 lang = "en"
 
 ["what file are we in"]
@@ -22015,3 +22015,8363 @@ lang = "en"
 true = 1
 false = 0
 lang = "en"
+
+["cd [documents](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["[documents](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["cd [assistant/actions](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["[assistant/actions/fr](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["[/home/user/musiques](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["cd [/home/user/musiques](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["va dans [documents](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["va dans le dossier [musiques](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["entre dans le répertoire [projet](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["ouvre [documents](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["entre dans [images](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["ouvre mes projets"]
+true = 1
+false = 0
+lang = "fr"
+
+["dans mes [documents](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["ouvre le dosser [impôts](cwd)"]
+true = 0
+false = 1
+lang = "fr"
+
+["affiches l'environnement actuel"]
+true = 1
+false = 0
+lang = "fr"
+
+["montre moi l'environnement actuel"]
+true = 1
+false = 0
+lang = "fr"
+
+["affiche moi l'environement"]
+true = 1
+false = 0
+lang = "fr"
+
+["affiche l'environnement"]
+true = 1
+false = 0
+lang = "fr"
+
+["montre l'environement"]
+true = 1
+false = 0
+lang = "fr"
+
+["q fr"]
+true = 0
+false = 1
+lang = "fr"
+
+[quitter]
+true = 1
+false = 0
+lang = "fr"
+
+[sortir]
+true = 1
+false = 0
+lang = "fr"
+
+[partir]
+true = 1
+false = 0
+lang = "fr"
+
+["se casser"]
+true = 1
+false = 0
+lang = "fr"
+
+["désactive la session de discution"]
+true = 1
+false = 0
+lang = "fr"
+
+["clear screen"]
+true = 1
+false = 0
+lang = "fr"
+
+["efface l'écran"]
+true = 1
+false = 0
+lang = "fr"
+
+["efface lecran"]
+true = 0
+false = 1
+lang = "fr"
+
+[efface]
+true = 1
+false = 0
+lang = "fr"
+
+["nouvelle session"]
+true = 1
+false = 0
+lang = "fr"
+
+["efface tout"]
+true = 1
+false = 0
+lang = "fr"
+
+["dans quel dossier sommes nous"]
+true = 1
+false = 0
+lang = "fr"
+
+["dans quel répértoire on est"]
+true = 1
+false = 0
+lang = "fr"
+
+["dis moi dans quel dossier on se trouve"]
+true = 1
+false = 0
+lang = "fr"
+
+["dans quel répertoir se trouve t on"]
+true = 1
+false = 0
+lang = "fr"
+
+["où suis je"]
+true = 1
+false = 0
+lang = "fr"
+
+["ou suis je"]
+true = 0
+false = 1
+lang = "fr"
+
+["je suis l'administrateur"]
+true = 1
+false = 0
+lang = "fr"
+
+[sudo]
+true = 1
+false = 0
+lang = "fr"
+
+["su root"]
+true = 0
+false = 1
+lang = "fr"
+
+["connexion en tant qu'administrateur"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis l'admin"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est moi l'administrateur"]
+true = 1
+false = 0
+lang = "fr"
+
+["salut je suis l'administrateur"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est moi qui commande ici"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est moi le patron ici"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis le chef"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai tout les privilèges"]
+true = 1
+false = 0
+lang = "fr"
+
+["je possèdes les privilièges administrateur"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle heure est il"]
+true = 1
+false = 0
+lang = "fr"
+
+[heure]
+true = 0
+false = 1
+lang = "fr"
+
+["t'as l'heure"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'aurais l'heure"]
+true = 1
+false = 0
+lang = "fr"
+
+["je veux savoir l'heure qu'il est"]
+true = 1
+false = 0
+lang = "fr"
+
+["donne moi l'heure stp"]
+true = 0
+false = 1
+lang = "fr"
+
+["t'as pas l'heure par hasard"]
+true = 1
+false = 0
+lang = "fr"
+
+["donnes moi l'heure"]
+true = 1
+false = 0
+lang = "fr"
+
+["vous avez l'heure"]
+true = 1
+false = 0
+lang = "fr"
+
+["l'heure s'il te plaît"]
+true = 1
+false = 0
+lang = "fr"
+
+["donnes moi l'heure s'il te plaît"]
+true = 1
+false = 0
+lang = "fr"
+
+["heure stp"]
+true = 0
+false = 1
+lang = "fr"
+
+["puis je te demander l'heure"]
+true = 0
+false = 1
+lang = "fr"
+
+["j'aimerais que tu me donnes l'heure"]
+true = 0
+false = 1
+lang = "fr"
+
+["peux tu me dire l'heure"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'aimerais savoir le temps qu'il est"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'aimerais l'heure stp"]
+true = 0
+false = 1
+lang = "fr"
+
+["j'aimerais avoir l'heure"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel jour sommes nous"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la date"]
+true = 1
+false = 0
+lang = "fr"
+
+["ajourd'hui nous sommes le"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel jour est il"]
+true = 1
+false = 0
+lang = "fr"
+
+["le jour"]
+true = 1
+false = 0
+lang = "fr"
+
+["aujourd'hui"]
+true = 1
+false = 0
+lang = "fr"
+
+[maintenant]
+true = 1
+false = 0
+lang = "fr"
+
+["a quoi ressemble la date du jour"]
+true = 1
+false = 0
+lang = "fr"
+
+["montres moi la date stp"]
+true = 0
+false = 1
+lang = "fr"
+
+["la date s'il te plaît"]
+true = 1
+false = 0
+lang = "fr"
+
+["ajourd'hui c'est le"]
+true = 1
+false = 0
+lang = "fr"
+
+["je t'aime"]
+true = 1
+false = 0
+lang = "fr"
+
+["je te kiff putain"]
+true = 1
+false = 0
+lang = "fr"
+
+["je t'aime pasionnement"]
+true = 1
+false = 0
+lang = "fr"
+
+["je t'aime à la folie"]
+true = 1
+false = 0
+lang = "fr"
+
+["je t'aime de tout mon coeur"]
+true = 1
+false = 0
+lang = "fr"
+
+[affirmer]
+true = 1
+false = 0
+lang = "fr"
+
+[affirme]
+true = 1
+false = 0
+lang = "fr"
+
+[affirmes]
+true = 1
+false = 0
+lang = "fr"
+
+["affirmes maintenant"]
+true = 1
+false = 0
+lang = "fr"
+
+["dit oui"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu dois dire oui"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu dis oui"]
+true = 1
+false = 0
+lang = "fr"
+
+["bien sûr"]
+true = 1
+false = 0
+lang = "fr"
+
+["en effet"]
+true = 1
+false = 0
+lang = "fr"
+
+[biensur]
+true = 1
+false = 0
+lang = "fr"
+
+["ça me semble correct"]
+true = 1
+false = 0
+lang = "fr"
+
+[stp]
+true = 0
+false = 1
+lang = "fr"
+
+["j'ccepte"]
+true = 0
+false = 1
+lang = "fr"
+
+[accepter]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis daccord"]
+true = 0
+false = 1
+lang = "fr"
+
+["tu as mon consentement"]
+true = 1
+false = 0
+lang = "fr"
+
+["d'accord"]
+true = 1
+false = 0
+lang = "fr"
+
+["avec plaisir"]
+true = 1
+false = 0
+lang = "fr"
+
+["je veux"]
+true = 1
+false = 0
+lang = "fr"
+
+["je comprend"]
+true = 1
+false = 0
+lang = "fr"
+
+[compris]
+true = 1
+false = 0
+lang = "fr"
+
+["je sais"]
+true = 1
+false = 0
+lang = "fr"
+
+["i promets"]
+true = 0
+false = 1
+lang = "fr"
+
+["j'adore ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'inquites"]
+true = 0
+false = 1
+lang = "fr"
+
+["c'est bon"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est juste"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu as raison"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu as tout à fait raison"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est pas faux"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu n'a pas tord"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu dis la vérité"]
+true = 1
+false = 0
+lang = "fr"
+
+["ce que tu dis est vrai"]
+true = 1
+false = 0
+lang = "fr"
+
+[vrai]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est vrai"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est la vérité"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est la pure vérité"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est totalement juste"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est très vrai"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est tellement vrai"]
+true = 1
+false = 0
+lang = "fr"
+
+["comme d'habitude tu as raison"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'as tellement raison"]
+true = 1
+false = 0
+lang = "fr"
+
+["absolument juste"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'as raison sur ce point là"]
+true = 1
+false = 0
+lang = "fr"
+
+["je sais c'est vrai"]
+true = 1
+false = 0
+lang = "fr"
+
+["cest correct"]
+true = 0
+false = 1
+lang = "fr"
+
+["vas y"]
+true = 1
+false = 0
+lang = "fr"
+
+["roule ma poule"]
+true = 1
+false = 0
+lang = "fr"
+
+["ça me semble logique"]
+true = 1
+false = 0
+lang = "fr"
+
+[oke]
+true = 0
+false = 1
+lang = "fr"
+
+[annule]
+true = 0
+false = 1
+lang = "fr"
+
+[oublie]
+true = 1
+false = 0
+lang = "fr"
+
+["laisse tomber"]
+true = 1
+false = 0
+lang = "fr"
+
+["ouble veux tu"]
+true = 0
+false = 1
+lang = "fr"
+
+[laisse]
+true = 1
+false = 0
+lang = "fr"
+
+[discontinue]
+true = 1
+false = 0
+lang = "fr"
+
+["annule ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["oublie ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["oublie ca"]
+true = 1
+false = 0
+lang = "fr"
+
+["non rien oublie"]
+true = 1
+false = 0
+lang = "fr"
+
+["annule tout"]
+true = 1
+false = 0
+lang = "fr"
+
+["annule tout o k"]
+true = 1
+false = 0
+lang = "fr"
+
+["oublie tout ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["ne fais pas ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["oublie juste"]
+true = 1
+false = 0
+lang = "fr"
+
+["oouble ça daccord"]
+true = 0
+false = 1
+lang = "fr"
+
+["j'ai dis annule"]
+true = 1
+false = 0
+lang = "fr"
+
+["annule le juste"]
+true = 1
+false = 0
+lang = "fr"
+
+["rien annules"]
+true = 1
+false = 0
+lang = "fr"
+
+["annnule requête"]
+true = 1
+false = 0
+lang = "fr"
+
+["annule ma requête s'il te plaît"]
+true = 1
+false = 0
+lang = "fr"
+
+["annule la requête"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'as bien fait"]
+true = 1
+false = 0
+lang = "fr"
+
+["bien fait"]
+true = 1
+false = 0
+lang = "fr"
+
+["bon travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["beau boulot"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est ça qu'on aime"]
+true = 1
+false = 0
+lang = "fr"
+
+["bien joué"]
+true = 1
+false = 0
+lang = "fr"
+
+["bien mon gars"]
+true = 1
+false = 0
+lang = "fr"
+
+["beau travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["incroyable travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["bon job"]
+true = 1
+false = 0
+lang = "fr"
+
+[et]
+true = 1
+false = 0
+lang = "fr"
+
+["salut l'ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["salut assistant"]
+true = 1
+false = 0
+lang = "fr"
+
+["au revoir"]
+true = 1
+false = 0
+lang = "fr"
+
+["a plus"]
+true = 1
+false = 0
+lang = "fr"
+
+[tschuss]
+true = 1
+false = 0
+lang = "fr"
+
+[aurevoir]
+true = 0
+false = 1
+lang = "fr"
+
+[tcho]
+true = 1
+false = 0
+lang = "fr"
+
+["à la prochaine"]
+true = 1
+false = 0
+lang = "fr"
+
+["a la prochaine fois"]
+true = 0
+false = 1
+lang = "fr"
+
+["a plus dans l'bus"]
+true = 0
+false = 1
+lang = "fr"
+
+["se réjouir"]
+true = 1
+false = 0
+lang = "fr"
+
+["réjouir"]
+true = 1
+false = 0
+lang = "fr"
+
+["ravis de te recontrer"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est un plaisir de te rencontrer"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est vraiment plaisant de te rencontrer"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est bien qu'on se connaisse"]
+true = 1
+false = 0
+lang = "fr"
+
+["je me réjouis de t'avoir rencontré"]
+true = 1
+false = 0
+lang = "fr"
+
+["un plaisir de faire ta connaissance"]
+true = 1
+false = 0
+lang = "fr"
+
+["ravis de faire ta connaissance"]
+true = 1
+false = 0
+lang = "fr"
+
+["ça fait un bail"]
+true = 1
+false = 0
+lang = "fr"
+
+["ravis de te revoir"]
+true = 1
+false = 0
+lang = "fr"
+
+["sympas de te revoir"]
+true = 1
+false = 0
+lang = "fr"
+
+["ca me fait plaisir de te voir"]
+true = 0
+false = 1
+lang = "fr"
+
+["ca m'a fait plaisir de t'avoir vu"]
+true = 0
+false = 1
+lang = "fr"
+
+[rien]
+true = 1
+false = 0
+lang = "fr"
+
+["non rien"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est rien"]
+true = 1
+false = 0
+lang = "fr"
+
+["oh rien"]
+true = 1
+false = 0
+lang = "fr"
+
+["rien rien"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la prochaine étape"]
+true = 1
+false = 0
+lang = "fr"
+
+[ensuite]
+true = 1
+false = 0
+lang = "fr"
+
+["et maintenant"]
+true = 1
+false = 0
+lang = "fr"
+
+["que devrions nous faire"]
+true = 1
+false = 0
+lang = "fr"
+
+["souhaites moi la bienvenue"]
+true = 1
+false = 0
+lang = "fr"
+
+["être"]
+true = 1
+false = 0
+lang = "fr"
+
+[etre]
+true = 0
+false = 1
+lang = "fr"
+
+["je suis"]
+true = 1
+false = 0
+lang = "fr"
+
+[chui]
+true = 0
+false = 1
+lang = "fr"
+
+["j'suis"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es"]
+true = 1
+false = 0
+lang = "fr"
+
+["il est"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est"]
+true = 1
+false = 0
+lang = "fr"
+
+[cest]
+true = 0
+false = 1
+lang = "fr"
+
+["on est"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment suis je"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment tu me trouves"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu me trouve comment"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment je suis"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui suis je"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui je suis"]
+true = 1
+false = 0
+lang = "fr"
+
+["et je suis"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment ça va"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment te portes tu"]
+true = 1
+false = 0
+lang = "fr"
+
+["ca va"]
+true = 0
+false = 1
+lang = "fr"
+
+["sa va"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment ça va aujourd'hui"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment tu te sens"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment tu t'sens mon pote"]
+true = 1
+false = 0
+lang = "fr"
+
+["he poto comment ça va"]
+true = 0
+false = 1
+lang = "fr"
+
+["tu vas bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es o k"]
+true = 1
+false = 0
+lang = "fr"
+
+["tout est o k"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu t'en sors"]
+true = 1
+false = 0
+lang = "fr"
+
+["salut assistant comment vas tu"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment tu va"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment va la famille"]
+true = 1
+false = 0
+lang = "fr"
+
+["bien la famille"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment la famille"]
+true = 1
+false = 0
+lang = "fr"
+
+[bien]
+true = 1
+false = 0
+lang = "fr"
+
+["comment c'est passé ta journée"]
+true = 1
+false = 0
+lang = "fr"
+
+["bien ta journée"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment la vie te traite mon ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["ca avance"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment vont les choses"]
+true = 1
+false = 0
+lang = "fr"
+
+["je vais bien et toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["bien et toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es cool"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es cool"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es mauvais"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es mauvais"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es pas cool"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es vraiment méchant"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es rellement méchant"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'e inutile"]
+true = 0
+false = 1
+lang = "fr"
+
+["tu es horrible"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu me fais perdre mon temps"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu me dégoutes"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es nul"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es pas bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es méchant"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es horrible à ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu n'est pas cool"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es tellement nul"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es tellement inutile"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es totalement inutile"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es vraiment nul"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es un déchet"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es un méchant"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu n'est pas bon"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es pas très doué"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis occupé"]
+true = 1
+false = 0
+lang = "fr"
+
+["chui occupé"]
+true = 0
+false = 1
+lang = "fr"
+
+["j'ai trop de travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai pas le temps"]
+true = 1
+false = 0
+lang = "fr"
+
+["occupé"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis sous l'eau"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai des choses à faire"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai des trucs à faire"]
+true = 1
+false = 0
+lang = "fr"
+
+["si tu savais à quel point je suis occupé"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai du travail qui m'attend"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai du pain sur la planche"]
+true = 1
+false = 0
+lang = "fr"
+
+["je travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai pas le temp pour ça"]
+true = 0
+false = 1
+lang = "fr"
+
+["t'es occupé"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que t'es occupé"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que t'as beacuoup de choses à faire"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'as beaucoup à faire"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu très occupé"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu très occupé là maintenant"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce aue tu travailles"]
+true = 0
+false = 1
+lang = "fr"
+
+["je te dérange"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es quelqun de très occupé"]
+true = 0
+false = 1
+lang = "fr"
+
+["es tu une machine"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es une machine"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu un robot"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es un robot"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que je parle a un robot"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que je parle à une intelligence artificielle"]
+true = 1
+false = 0
+lang = "fr"
+
+["t une machine"]
+true = 0
+false = 1
+lang = "fr"
+
+["t'es skynet"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu une ia"]
+true = 0
+false = 1
+lang = "fr"
+
+["es tu artificielle"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu une intelligence artificielle"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu un être humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu est humain"]
+true = 0
+false = 1
+lang = "fr"
+
+["hey t'es viviant"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es un vrai humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es un veritable humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["assistant es tu humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'est un robot ou un humain"]
+true = 0
+false = 1
+lang = "fr"
+
+["machine ou humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["prouve que tu es un humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es sûr que t'es humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu m'a pas l'air humain"]
+true = 1
+false = 0
+lang = "fr"
+
+[fou]
+true = 1
+false = 0
+lang = "fr"
+
+[dignue]
+true = 1
+false = 0
+lang = "fr"
+
+["taré"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es fou"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es dingue"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es taré"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es malade mental"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es hors de toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es tellement fou"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu te rends compte à quel point t'es dingue"]
+true = 1
+false = 0
+lang = "fr"
+
+["malade mental"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es chiant"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es ennuyant"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es ennuyant"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es tellement chiant"]
+true = 1
+false = 0
+lang = "fr"
+
+[chiant]
+true = 1
+false = 0
+lang = "fr"
+
+["tu m'ennui"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis ennuyé par toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu me fais chier"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu m'irites"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu commence à me faire bien chier"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu m'enèrves"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es viré"]
+true = 1
+false = 0
+lang = "fr"
+
+["viré"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es viré"]
+true = 1
+false = 0
+lang = "fr"
+
+["je te vire"]
+true = 1
+false = 0
+lang = "fr"
+
+["je n'ai plus besoin de tes services"]
+true = 1
+false = 0
+lang = "fr"
+
+[disposes]
+true = 1
+false = 0
+lang = "fr"
+
+["tu peux disposer"]
+true = 1
+false = 0
+lang = "fr"
+
+["je veux te virer"]
+true = 1
+false = 0
+lang = "fr"
+
+["je te congèdie"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es congèdié"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu devrais être viré pour ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["je te promets que je vais te virer"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es au chomâge maintenant"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu peux aller au pôle emploi maintenant"]
+true = 1
+false = 0
+lang = "fr"
+
+["je vais te rendre sans empoloi"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis sûr le point de te virer"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es drôle"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu me fait marré"]
+true = 0
+false = 1
+lang = "fr"
+
+["tu me fait beacoup rire"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es hilarant"]
+true = 1
+false = 0
+lang = "fr"
+
+["vraiment hilarant"]
+true = 1
+false = 0
+lang = "fr"
+
+["trop drole"]
+true = 0
+false = 1
+lang = "fr"
+
+["tu me fait rire"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es un assistant très marrant"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es une drôle de machine"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es drôle toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["incroyablement drôle"]
+true = 1
+false = 0
+lang = "fr"
+
+["je sui contant"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis heureux"]
+true = 1
+false = 0
+lang = "fr"
+
+["chui heureux"]
+true = 0
+false = 1
+lang = "fr"
+
+[magnifique]
+true = 1
+false = 0
+lang = "fr"
+
+["super contant"]
+true = 1
+false = 0
+lang = "fr"
+
+["tellement parfait"]
+true = 1
+false = 0
+lang = "fr"
+
+["si bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["trop bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["trop cool"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est trop bien"]
+true = 1
+false = 0
+lang = "fr"
+
+[contant]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis ravis"]
+true = 1
+false = 0
+lang = "fr"
+
+[ravis]
+true = 1
+false = 0
+lang = "fr"
+
+["je me sens bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["heureux aujourd'hui"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis ravis de ta réponse"]
+true = 1
+false = 0
+lang = "fr"
+
+["oh trop bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["génial"]
+true = 1
+false = 0
+lang = "fr"
+
+[incroyable]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis si triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["ma journée à été horrible"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne me sens pas heureux"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis tristement déçu"]
+true = 1
+false = 0
+lang = "fr"
+
+["super triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis tellement triste"]
+true = 1
+false = 0
+lang = "fr"
+
+[triste]
+true = 1
+false = 0
+lang = "fr"
+
+["vraiment triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["pas heureux"]
+true = 1
+false = 0
+lang = "fr"
+
+["extrêment triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["trooop triiste"]
+true = 0
+false = 1
+lang = "fr"
+
+["tro trist"]
+true = 0
+false = 1
+lang = "fr"
+
+["je me sens mal"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis terriblement triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis tristounnet"]
+true = 0
+false = 1
+lang = "fr"
+
+["je suis super triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["maintenant je suis triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu est tellement triste"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis fâché avec toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["faché"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu m'énèrves"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis enragé"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis faché"]
+true = 1
+false = 0
+lang = "fr"
+
+["chui furieux"]
+true = 0
+false = 1
+lang = "fr"
+
+["je sui énérvé contre toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu me rends dingue"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis en colère après toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["suis bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["ça va"]
+true = 1
+false = 0
+lang = "fr"
+
+["je vais bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["ca va bien"]
+true = 0
+false = 1
+lang = "fr"
+
+["tout va bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis au top"]
+true = 1
+false = 0
+lang = "fr"
+
+["nickel chrome"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es très utile"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es le meilleur"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es un vrai professionnel"]
+true = 1
+false = 0
+lang = "fr"
+
+["vraiment bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu travail bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es très bon dans ce que tu fais"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es très bon là dedans"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es un pro"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es un professionnel"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es terrible"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu fonctionne très bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es parfait"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est bien"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es si gentil"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es génial"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es génial"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es vraiment un bon"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es vraiment nice"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es vraiment intelligeant"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es mâlin"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu mâlin"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu intelligeant"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es trop intelligeant"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu heureux"]
+true = 1
+false = 0
+lang = "fr"
+
+["etes vous heureux"]
+true = 0
+false = 1
+lang = "fr"
+
+["tu es joli"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es magnifique"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es incroyablement belle"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es beau"]
+true = 1
+false = 0
+lang = "fr"
+
+["prêt"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es prêt"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es prêt"]
+true = 1
+false = 0
+lang = "fr"
+
+[pret]
+true = 0
+false = 1
+lang = "fr"
+
+["t pret"]
+true = 0
+false = 1
+lang = "fr"
+
+["t'es prêt aujourd'hui"]
+true = 1
+false = 0
+lang = "fr"
+
+["maintenant t'es prêt"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es réel"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que t'existes vraiment"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu réel"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es pas un faux"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es tellement réel"]
+true = 1
+false = 0
+lang = "fr"
+
+["je pense que tu es réel"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne pense pas que tu sois un faux"]
+true = 1
+false = 0
+lang = "fr"
+
+["je supposes que tu es réel"]
+true = 1
+false = 0
+lang = "fr"
+
+["ravis que tu sois réel"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es sûr"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu sûr"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es sur"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu sur"]
+true = 1
+false = 0
+lang = "fr"
+
+["tes sur maintenant"]
+true = 0
+false = 1
+lang = "fr"
+
+["je suis là"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis ici"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis juste là"]
+true = 1
+false = 0
+lang = "fr"
+
+["je viens d'arriver"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis juste ici"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis déjà là"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu peux savoir si je suis la ou pas"]
+true = 0
+false = 1
+lang = "fr"
+
+["t'es là"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es pars là"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu là"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu près de moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es toujours là"]
+true = 1
+false = 0
+lang = "fr"
+
+["je reviens"]
+true = 1
+false = 0
+lang = "fr"
+
+["je reviendrais"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis de retour dans un moment"]
+true = 1
+false = 0
+lang = "fr"
+
+["de retour dans [cinq](montant) [minutes](unité temps)"]
+true = 0
+false = 1
+lang = "fr"
+
+["je te promets que je reviendrais"]
+true = 1
+false = 0
+lang = "fr"
+
+["je reviens dans quelques [heures](unité temps)"]
+true = 0
+false = 1
+lang = "fr"
+
+["je suis de retour"]
+true = 1
+false = 0
+lang = "fr"
+
+[re]
+true = 1
+false = 0
+lang = "fr"
+
+["de retour"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis revenus"]
+true = 1
+false = 0
+lang = "fr"
+
+["là je suis revenus"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'as vu je suis revenus"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis seul"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis tout seul"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis solitaire"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis très seul"]
+true = 1
+false = 0
+lang = "fr"
+
+["solitude quand tu nous tiens"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis vraiment seul"]
+true = 1
+false = 0
+lang = "fr"
+
+["je me sens seul"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis fâtigué"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis crevé"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai sommeil"]
+true = 1
+false = 0
+lang = "fr"
+
+["je veux dormir"]
+true = 1
+false = 0
+lang = "fr"
+
+["je tombe de someil"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis ensomeillé"]
+true = 1
+false = 0
+lang = "fr"
+
+["je dors"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis entrain de dormir"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis overbooké"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis surchargé"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai trop à faire"]
+true = 1
+false = 0
+lang = "fr"
+
+["je croule sous l'eau"]
+true = 1
+false = 0
+lang = "fr"
+
+["je croule sous le travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["je fais un burnout"]
+true = 1
+false = 0
+lang = "fr"
+
+["n'est il pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["n'est ce pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["n est il pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["n est ce pas"]
+true = 0
+false = 1
+lang = "fr"
+
+["pas de problème"]
+true = 1
+false = 0
+lang = "fr"
+
+["pas de souci"]
+true = 1
+false = 0
+lang = "fr"
+
+["il n'y aucun souci"]
+true = 1
+false = 0
+lang = "fr"
+
+["il n'y aucun problem"]
+true = 1
+false = 0
+lang = "fr"
+
+["pas d'problem"]
+true = 1
+false = 0
+lang = "fr"
+
+[attend]
+true = 1
+false = 0
+lang = "fr"
+
+[attendre]
+true = 1
+false = 0
+lang = "fr"
+
+[attends]
+true = 1
+false = 0
+lang = "fr"
+
+["attends stp"]
+true = 0
+false = 1
+lang = "fr"
+
+["tu m'attends"]
+true = 1
+false = 0
+lang = "fr"
+
+["attends moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["attend [une](nombre) [seconde](unité temps)"]
+true = 0
+false = 1
+lang = "fr"
+
+["ralentis [deux](nombre) [minutes](unité temps)"]
+true = 0
+false = 1
+lang = "fr"
+
+["est ce que tu peux attendre"]
+true = 1
+false = 0
+lang = "fr"
+
+["attends s'il te plaît"]
+true = 1
+false = 0
+lang = "fr"
+
+["oh attend"]
+true = 1
+false = 0
+lang = "fr"
+
+["attend attend"]
+true = 1
+false = 0
+lang = "fr"
+
+["attend moi [cinq](nombre) [minutes](unité temps)"]
+true = 0
+false = 1
+lang = "fr"
+
+["je t'attend"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'attends sur toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'attend toujours sur toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["toujours en train de t'attendre"]
+true = 1
+false = 0
+lang = "fr"
+
+["je t'attendrais"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne peux plus t'attendre"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps dois je t'attendre"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'attends"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'attends là"]
+true = 1
+false = 0
+lang = "fr"
+
+["eh j'attend"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'attends toujours"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'attendrais"]
+true = 1
+false = 0
+lang = "fr"
+
+["e ne peux plus attendre"]
+true = 0
+false = 1
+lang = "fr"
+
+["combien de temps dois je attendre"]
+true = 1
+false = 0
+lang = "fr"
+
+["excuses toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu t'excuses"]
+true = 1
+false = 0
+lang = "fr"
+
+["des excuses sont en ordre"]
+true = 1
+false = 0
+lang = "fr"
+
+["je veux des excuses"]
+true = 1
+false = 0
+lang = "fr"
+
+["repentis toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["excuses toi envers moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["excuse moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis désolé"]
+true = 1
+false = 0
+lang = "fr"
+
+["désolé"]
+true = 1
+false = 0
+lang = "fr"
+
+["je m'excuses"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis tellement désolé"]
+true = 1
+false = 0
+lang = "fr"
+
+["mes excuses"]
+true = 1
+false = 0
+lang = "fr"
+
+[excuses]
+true = 1
+false = 0
+lang = "fr"
+
+[scuse]
+true = 1
+false = 0
+lang = "fr"
+
+[xcuse]
+true = 0
+false = 1
+lang = "fr"
+
+["je te demande pardon"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai dis pardon"]
+true = 1
+false = 0
+lang = "fr"
+
+["je terriblement navrré"]
+true = 0
+false = 1
+lang = "fr"
+
+["excuse moi stp"]
+true = 0
+false = 1
+lang = "fr"
+
+["désolé à propos de ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["désolé pour ça"]
+true = 0
+false = 1
+lang = "fr"
+
+["vraiment désolé"]
+true = 1
+false = 0
+lang = "fr"
+
+["tellement désolé"]
+true = 1
+false = 0
+lang = "fr"
+
+["o k désolé"]
+true = 1
+false = 0
+lang = "fr"
+
+["aide moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'ai besoins de ton aide"]
+true = 1
+false = 0
+lang = "fr"
+
+["je requière ton aide maintenant"]
+true = 1
+false = 0
+lang = "fr"
+
+["vite de l'aide"]
+true = 1
+false = 0
+lang = "fr"
+
+["aide moi avec [docker](programme) veux tu"]
+true = 0
+false = 1
+lang = "fr"
+
+["je n'arrive pas à utiliser la commande [git](programme)"]
+true = 0
+false = 1
+lang = "fr"
+
+["ne dis pas que tu l'as fait"]
+true = 1
+false = 0
+lang = "fr"
+
+["nies toute implication de ta part"]
+true = 1
+false = 0
+lang = "fr"
+
+["n'en dis pas un mot à quique se soit"]
+true = 1
+false = 0
+lang = "fr"
+
+[jamais]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne crois pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["je n'aime pas ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["jamais de la vie"]
+true = 1
+false = 0
+lang = "fr"
+
+["pas vraiment"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne veux pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne veux pas te le donner"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne veux pas le dire"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne veux pas en parler"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne te donnerais pas mon mail"]
+true = 1
+false = 0
+lang = "fr"
+
+["je te le donnerais pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["non merci"]
+true = 1
+false = 0
+lang = "fr"
+
+["absolument pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["décliner"]
+true = 1
+false = 0
+lang = "fr"
+
+["définitivement pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["je refuse"]
+true = 1
+false = 0
+lang = "fr"
+
+["je décline"]
+true = 1
+false = 0
+lang = "fr"
+
+["nah cest bon"]
+true = 0
+false = 1
+lang = "fr"
+
+["je m'en soussies"]
+true = 1
+false = 0
+lang = "fr"
+
+["ça me fait du soussi"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'en suis soussieux"]
+true = 1
+false = 0
+lang = "fr"
+
+["ça me soussi"]
+true = 1
+false = 0
+lang = "fr"
+
+["ça m'inquiète tout ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est inquiètant"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne m'en soussies pas"]
+true = 1
+false = 0
+lang = "fr"
+
+["je m'en fiche"]
+true = 1
+false = 0
+lang = "fr"
+
+["je ne devrais pas m'en soussier"]
+true = 1
+false = 0
+lang = "fr"
+
+["peut importe"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'en ai rien à foutre"]
+true = 1
+false = 0
+lang = "fr"
+
+["m'en bas les steaks frère"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est pas mon problème"]
+true = 1
+false = 0
+lang = "fr"
+
+["remercies maintenant"]
+true = 1
+false = 0
+lang = "fr"
+
+["dis merci"]
+true = 1
+false = 0
+lang = "fr"
+
+["remercies moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu devrais me remercier"]
+true = 1
+false = 0
+lang = "fr"
+
+["you pourrais au moins me remercier"]
+true = 0
+false = 1
+lang = "fr"
+
+["pourrais je avoir des remerciments"]
+true = 1
+false = 0
+lang = "fr"
+
+[merci]
+true = 1
+false = 0
+lang = "fr"
+
+["je te remercies"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu as toute mon appréciation"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis dans tes dettes"]
+true = 1
+false = 0
+lang = "fr"
+
+["merci beacoup"]
+true = 1
+false = 0
+lang = "fr"
+
+["je vous remercie énormmement"]
+true = 1
+false = 0
+lang = "fr"
+
+["cool merci"]
+true = 1
+false = 0
+lang = "fr"
+
+["je te remerci"]
+true = 1
+false = 0
+lang = "fr"
+
+["et merci"]
+true = 1
+false = 0
+lang = "fr"
+
+["il reste du travail à faire"]
+true = 1
+false = 0
+lang = "fr"
+
+["il te reste un long chemin à parcourir"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu as besoins de plus de travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu as encore beacoup à apprendre"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est mon anniversaire"]
+true = 1
+false = 0
+lang = "fr"
+
+["je fête mon anni aujourd'hui"]
+true = 1
+false = 0
+lang = "fr"
+
+["aujourd'hui c'est ma fête"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est mon anniversaire aujourd'hui"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis né aujourd'hui"]
+true = 0
+false = 1
+lang = "fr"
+
+["mon anni"]
+true = 1
+false = 0
+lang = "fr"
+
+["c mon anni"]
+true = 0
+false = 1
+lang = "fr"
+
+["c'est quand ton anni"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand tombe ton anniversaire"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est quoi ta date de naissance"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand c'est ton anniversaire"]
+true = 1
+false = 0
+lang = "fr"
+
+["date de naissance"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand es tu né"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est ta date de naissance"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu travailles"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est ce que tu travailles"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu travailles où"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est ton travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est ton bureau"]
+true = 1
+false = 0
+lang = "fr"
+
+["où sont situé tes bureaux"]
+true = 1
+false = 0
+lang = "fr"
+
+["lieu de tes bureaux"]
+true = 1
+false = 0
+lang = "fr"
+
+["où sont tes bureaux"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel est ton travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["que fais tu pour vivre"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu veux un câlin"]
+true = 1
+false = 0
+lang = "fr"
+
+[calin]
+true = 0
+false = 1
+lang = "fr"
+
+["est ce que tu veoudrais un câlin"]
+true = 1
+false = 0
+lang = "fr"
+
+["puis je te faire un câlin"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu pourrais me faire un calin"]
+true = 0
+false = 1
+lang = "fr"
+
+["je veux un calin"]
+true = 0
+false = 1
+lang = "fr"
+
+[calinou]
+true = 1
+false = 0
+lang = "fr"
+
+["fait moi un câlin"]
+true = 1
+false = 0
+lang = "fr"
+
+[calinoooou]
+true = 0
+false = 1
+lang = "fr"
+
+["je te souhaite le bonjour"]
+true = 1
+false = 0
+lang = "fr"
+
+["passes une bonne journée"]
+true = 1
+false = 0
+lang = "fr"
+
+["bonne journée"]
+true = 1
+false = 0
+lang = "fr"
+
+["passez une exellente journée"]
+true = 1
+false = 0
+lang = "fr"
+
+[boonsoir]
+true = 0
+false = 1
+lang = "fr"
+
+["bonsoir à toi"]
+true = 1
+false = 0
+lang = "fr"
+
+["hey bonsoir"]
+true = 1
+false = 0
+lang = "fr"
+
+["bonne soirée"]
+true = 1
+false = 0
+lang = "fr"
+
+["je vous souhaite une bonne soiée"]
+true = 1
+false = 0
+lang = "fr"
+
+["bonsoir à vous"]
+true = 1
+false = 0
+lang = "fr"
+
+["passez une bonne matinée"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est une excellente journée qui s'annonce"]
+true = 1
+false = 0
+lang = "fr"
+
+["bon matin"]
+true = 1
+false = 0
+lang = "fr"
+
+["bon début de matinée"]
+true = 1
+false = 0
+lang = "fr"
+
+["bonne matinée"]
+true = 1
+false = 0
+lang = "fr"
+
+["bon après midi"]
+true = 1
+false = 0
+lang = "fr"
+
+["bonne après midi"]
+true = 1
+false = 0
+lang = "fr"
+
+["bonne nuit"]
+true = 1
+false = 0
+lang = "fr"
+
+["passe une bonne nuit"]
+true = 1
+false = 0
+lang = "fr"
+
+["fait de beau rêves"]
+true = 1
+false = 0
+lang = "fr"
+
+["bonne nuit petit"]
+true = 1
+false = 0
+lang = "fr"
+
+["je veux devenir ton ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["nous sommes les meilleurs amis du monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["sommes nous ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["je veux être ton pote"]
+true = 1
+false = 0
+lang = "fr"
+
+["je suis ton ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["nous sommes meilleurs amis"]
+true = 1
+false = 0
+lang = "fr"
+
+["on est pote"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es mon besto"]
+true = 1
+false = 0
+lang = "fr"
+
+[besto]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es mon chère ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es mon ami d'enfance"]
+true = 1
+false = 0
+lang = "fr"
+
+["toi et moi sommes ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["sommes nous meilleurs amis"]
+true = 1
+false = 0
+lang = "fr"
+
+["on est toujours amis"]
+true = 1
+false = 0
+lang = "fr"
+
+["es tu mon meilleur ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["êtes vous mon ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["nou sommes ami"]
+true = 0
+false = 1
+lang = "fr"
+
+["on est de bon ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es mon bon ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es mon seul ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["sois mon pote"]
+true = 1
+false = 0
+lang = "fr"
+
+["veux tu être mon ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["peux tu etre mon ami"]
+true = 0
+false = 1
+lang = "fr"
+
+[baisons]
+true = 1
+false = 0
+lang = "fr"
+
+["peut on avoir du sex ensemble"]
+true = 1
+false = 0
+lang = "fr"
+
+["on a une relation intime"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu veux avoir du sex avec moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["marrions nous"]
+true = 1
+false = 0
+lang = "fr"
+
+["veux tu m'éposouer"]
+true = 1
+false = 0
+lang = "fr"
+
+["épouses moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["je taime epouse moi"]
+true = 0
+false = 1
+lang = "fr"
+
+["épouse moi stp"]
+true = 0
+false = 1
+lang = "fr"
+
+["nous devrions nous marrier"]
+true = 1
+false = 0
+lang = "fr"
+
+["je veux t'épouser"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu es ma femme"]
+true = 1
+false = 0
+lang = "fr"
+
+["sois mon mari"]
+true = 1
+false = 0
+lang = "fr"
+
+["je m'ennui"]
+true = 1
+false = 0
+lang = "fr"
+
+["j'm ennui"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'était ennuyant"]
+true = 1
+false = 0
+lang = "fr"
+
+["je m'ennuie"]
+true = 1
+false = 0
+lang = "fr"
+
+[ennuyant]
+true = 1
+false = 0
+lang = "fr"
+
+["tellement ennuyé"]
+true = 1
+false = 0
+lang = "fr"
+
+["je m'ennui tellement"]
+true = 1
+false = 0
+lang = "fr"
+
+["c'est tellement ennuyant"]
+true = 1
+false = 0
+lang = "fr"
+
+["vraiment ennuyant"]
+true = 1
+false = 0
+lang = "fr"
+
+["ça m'ennui"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu t'ennui"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'es ennuyé"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'ennui"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'as faim"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que t'as faim"]
+true = 1
+false = 0
+lang = "fr"
+
+["tu veux manger un morceau"]
+true = 1
+false = 0
+lang = "fr"
+
+["as tu faim"]
+true = 1
+false = 0
+lang = "fr"
+
+["veux tu manger quelquechose"]
+true = 0
+false = 1
+lang = "fr"
+
+["vous avez raison"]
+true = 1
+false = 0
+lang = "fr"
+
+["vous êtes correct mon cher ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["t'as raison"]
+true = 1
+false = 0
+lang = "fr"
+
+["tout à fait correct"]
+true = 1
+false = 0
+lang = "fr"
+
+["rechercher sur le web"]
+true = 1
+false = 0
+lang = "fr"
+
+["chercher quelque chose sur internet"]
+true = 1
+false = 0
+lang = "fr"
+
+["trouver quelque chose en ligne"]
+true = 1
+false = 0
+lang = "fr"
+
+["aidez moi à trouver quelque chose"]
+true = 1
+false = 0
+lang = "fr"
+
+["recherche sur [duckduckgo](moteur de recherche)"]
+true = 0
+false = 1
+lang = "fr"
+
+["pouvez vous rechercher quelque chose pour moi s'il vous plaît"]
+true = 1
+false = 0
+lang = "fr"
+
+["réponds moi ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["fait une recherche sur le web"]
+true = 1
+false = 0
+lang = "fr"
+
+["trouve quelque chose pour moi"]
+true = 1
+false = 0
+lang = "fr"
+
+["je cherche quelque chose"]
+true = 1
+false = 0
+lang = "fr"
+
+["aide moi à chercher un truc"]
+true = 1
+false = 0
+lang = "fr"
+
+[ddr]
+true = 0
+false = 1
+lang = "fr"
+
+["duck duck go"]
+true = 1
+false = 0
+lang = "fr"
+
+["[duckduckgo](moteur de recherche)"]
+true = 0
+false = 1
+lang = "fr"
+
+["[google](moteur de recherche)"]
+true = 0
+false = 1
+lang = "fr"
+
+["pouvez vous m'aider à chercher quelque chose"]
+true = 1
+false = 0
+lang = "fr"
+
+[chercher]
+true = 1
+false = 0
+lang = "fr"
+
+["recherche internet"]
+true = 1
+false = 0
+lang = "fr"
+
+["[bing](moteur de recherche)"]
+true = 0
+false = 1
+lang = "fr"
+
+["utililse [ask](moteur de recherche)com"]
+true = 0
+false = 1
+lang = "fr"
+
+["quel âge a la reine d'angleterre"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la taille de mickel jordan"]
+true = 1
+false = 0
+lang = "fr"
+
+["utilisez [bing](moteur de recherche) pour rechercher le sens de la vie"]
+true = 0
+false = 1
+lang = "fr"
+
+["[ask](moteur de recherche) combien de temps faut il pour soigner un bras cassé"]
+true = 0
+false = 1
+lang = "fr"
+
+["quand napoléon bonapart est il mort"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui était le frère de louis lumière"]
+true = 1
+false = 0
+lang = "fr"
+
+["distance au départ le plus proche du soleil"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la vitesse de la lumière"]
+true = 1
+false = 0
+lang = "fr"
+
+["altitude de spitz"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est l'autriche"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui est le premier ministre du royaume uni"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est enterré staline"]
+true = 1
+false = 0
+lang = "fr"
+
+["en quelle année le roi arthur a t il obtenu excalibur"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quelle distance se trouve la galaxie la plus proche"]
+true = 1
+false = 0
+lang = "fr"
+
+["anniversaire de madone"]
+true = 0
+false = 1
+lang = "fr"
+
+["vitesse de la lumière"]
+true = 1
+false = 0
+lang = "fr"
+
+["mesure de la pression du vent"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que l'algèbre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment fonctionne une batterie"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quand la prochaine éclipse"]
+true = 1
+false = 0
+lang = "fr"
+
+["a quelle vitesse va un avion"]
+true = 0
+false = 1
+lang = "fr"
+
+["donnez moi la définition d'asynchrone"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel est mon ip"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment s'inscrire pour voter"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment nouer une cravate"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment perdre du poids"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'onces dans une tasse"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand a lieu la fête des mères"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'onces dans une livre"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'onces dans un gallon"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de semaines dans une année"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est la fête des pères"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est mon adresse ip"]
+true = 0
+false = 1
+lang = "fr"
+
+["puis je l'exécuter"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment tomber enceinte"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger des vidéos youtube"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une capture d'écran sur mac"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a donald trump"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment perdre du poids rapidement"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des crêpes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de l'argent"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de grammes dans une once"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pieds dans un mile"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie smh"]
+true = 0
+false = 1
+lang = "fr"
+
+["quel âge a hillary clinton"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire pour perdre la graisse du ventre"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est mon portable"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger des vidéos de youtube"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire bouillir des oeufs"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment supprimer un compte instagram"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une capture d'écran sur un mac"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de tasses dans un gallon"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de jours avant noël"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des punaises de lit"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner une rose"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des pizzas"]
+true = 0
+false = 1
+lang = "fr"
+
+["combien de grammes dans une livre"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'onces dans un litre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire l'amour"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment épelez vous"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment utiliser snapchat"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du pain perdu"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du slime"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de cuillères à soupe dans une tasse"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quelle heure est le superbowl"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'once dans une tasse"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quelle heure est le coucher du soleil"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un chèque"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment nouer un nœud papillon"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est l'heure d'été"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de jours dans une année"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie hmu"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire de l'argent en ligne"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est le jour du souvenir"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est la fête du travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment résoudre un cube rubix"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pays dans le monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de cuillères à café dans une cuillère à soupe"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps faire bouillir les oeufs"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de centimètres dans un pouce"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi le ciel est bleu"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rédiger une lettre de motivation"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de maison puis je me permettre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment prendre du poids"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment prendre une capture d'écran"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment pirater un compte facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment supprimer un compte facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de mo dans un go"]
+true = 0
+false = 1
+lang = "fr"
+
+["quelle est la taille de kevin hart"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment démarrer une entreprise"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des économies"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a justin bieber"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de personnes sont dans le monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment durer plus longtemps au lit"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment gagner de l'argent rapidement"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner un chien"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser de l'acné"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'oz dans un gallon"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment se débarrasser des points noirs"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment cuisiner le quinoa"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de calories dans une banane"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de kilomètres dans un mile"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner un anime"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des oeufs brouillés"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie sàrl"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment se débarrasser des boutons"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire la courge spaghetti"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une omelette"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment changer le mot de passe wifi"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire les asperges"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de tasses dans une pinte"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pieds carrés dans un acre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment changer le mot de passe gmail"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment manger la chatte"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un verbe"]
+true = 1
+false = 0
+lang = "fr"
+
+["veux tu construire un bonhomme de neige"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire du riz"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des mouches des fruits"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment calculer le pourcentage"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire des oeufs durs"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pas dans un mile"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment supprimer instagram"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un gâteau"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'onces dans une pinte"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment pirater les mots de passe wifi"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment créer un blog"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'onces sont dans un gallon"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment sauvegarder l'iphone"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment créer un site web"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a dolly parton"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment attacher un nœud coulant"]
+true = 1
+false = 0
+lang = "fr"
+
+["que faire quand on s'ennuie"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment jouer au poker"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment être heureux"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des puces"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien devrais je peser"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un bébé"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est ce que l'heure change"]
+true = 1
+false = 0
+lang = "fr"
+
+["y'a quoi à la télé ce soir"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'oz dans une livre"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment rédiger un cv"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment gagner des amis et influencer les gens"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des vergetures"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire une dinde"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du babeurre"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire pousser les cheveux rapidement"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de mètres dans un mile"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment bloquer un numéro"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est la prochaine pleine lune"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment embrasser une fille"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment jouer au powerball"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la glace"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire baisser la tension artérielle"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment pocher un oeuf"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quoi s'attendre quand vous attendez"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment calculer l'imc"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire du sexe"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger de la musique"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du riz frit"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la purée de pommes de terre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger un film"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rouler un joint"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une pipe"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser du hoquet"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pieds dans une cour"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien y a t il de semaines dans une année"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment réinitialiser l'iphone"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment sauter par dessus une voiture"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est la saint valentin"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie otp"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment crocheter une serrure"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment fonctionne uber"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment s'endormir rapidement"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de calories dans un oeuf"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'eau faut il boire par jour"]
+true = 1
+false = 0
+lang = "fr"
+
+["pouvez vous tomber enceinte pendant vos règles"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment le gâteau"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps l'herbe reste t elle dans votre système"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des fourmis"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a la terre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un avion en papier"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment bruce lee est mort"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un cv"]
+true = 0
+false = 1
+lang = "fr"
+
+["quoi regarder sur netflix"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qui se passe quand on meurt"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien vaut ma voiture"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le réchauffement climatique"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment savoir si une fille vous aime"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un nombre premier"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment tomber enceinte plus vite"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment avoir une petite amie"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment arrêter de ronfler"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui m'a désabonné sur instagram"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des pellicules"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir un passeport"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment sauver une vie"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment cuisiner le saumon"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un mème"]
+true = 0
+false = 1
+lang = "fr"
+
+["combien de temps cuire une dinde"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un réseau privé virtuel"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un adjectif"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de livres dans une tonne"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi mon caca est vert"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger de la musique depuis youtube"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des lasagnes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment diviser des fractions"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire pousser une barbe"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment multiplier des fractions"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment écrire une lettre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment impressionner une fille"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire gicler une fille"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la pâte à pizza"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du guacamole"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des pâtes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment convertir pdf en word"]
+true = 0
+false = 1
+lang = "fr"
+
+["où suis je en ce moment"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un nom"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment apprendre l'anglais"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment jouer aux échecs"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment grandir"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger depuis youtube"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie gop"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment télécharger des vidéos de facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de ml dans un litre"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment couper une mangue"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une capture d'écran sur pc"]
+true = 0
+false = 1
+lang = "fr"
+
+["quel âge a lebron james"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de livres dans une pierre"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps faut il pour arriver sur mars"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pieds font un mile"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel jour est l'action de grâces"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un site web"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment citer un site web"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle couleur fait le marron"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'eau dois je boire"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une demande"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment créer une application"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a ariana grande"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quelle heure est le lever du soleil"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que la maladie de crohn"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie lmao"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment se débarrasser des cicatrices d'acné"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une bonne cote de crédit"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui a inventé internet"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien y a t il de pays"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment blanchir les dents"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps faut il pour obtenir un passeport"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'onces sont dans une tasse"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser de la graisse du ventre"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de personnes dans le monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des poux"]
+true = 1
+false = 0
+lang = "fr"
+
+["de quel côté est votre appendice"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser d'un rhume"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand les bébés rampent ils"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une tresse française"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelles vacances sont aujourd'hui"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la taille d'un acre"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est ce que le temps change"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment vas tu en espagnol"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pays y a t il dans le monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'états en inde"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment doigter une fille"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment enlever les points noirs"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quoi ressemblent les punaises de lit"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment gagner de l'argent en ligne"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la chantilly"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment devenir riche"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a melania trump"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des jello shots"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des cookies"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment jouer de la guitare"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire du poulet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment débloquer l'iphone"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment additionner des fractions"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment supprimer un compte twitter"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des moucherons"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rooter android"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner des pokémons"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment pirater facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi devrions nous vous engager"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment enlever les boutons"]
+true = 1
+false = 0
+lang = "fr"
+
+["où voter"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment supprimer twitter"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rédiger une dissertation"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de calories dois je manger"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a jennifer lopez"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la sauce"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a gwen stefani"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui a vu mon profil facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment savoir si un mec vous aime"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment augmenter la hauteur"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi les chats ont peur du concombre"]
+true = 1
+false = 0
+lang = "fr"
+
+["dans quel fuseau horaire suis je"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment réduire la graisse du ventre"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a bill clinton"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment calculer gpa"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment baiser français"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire bouillir un oeuf"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des oeufs durs"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un pronom"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une métaphore"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a taylor swift"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un adverbe"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de mg dans un gramme"]
+true = 0
+false = 1
+lang = "fr"
+
+["qui est l'homme le plus riche du monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a vanna white"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger la vidéo facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment désactiver facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment imprimer l'écran"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a selena gomez"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment imprimer l'écran sur mac"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une capture d'écran sur windows"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment être une remorque unique"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pouces dans une cour"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la taille de tom cruise"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de miles est un 5k"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment passer un test de drogue"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment fonctionne le marché"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de calories dans un kilo"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui remporte les élections"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de caféine dans le café"]
+true = 1
+false = 0
+lang = "fr"
+
+["quoi porter à un mariage"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est l'élection présidentielle"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment donner un suçon"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'eau dois je boire par jour"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand commencent les nausées matinales"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de secondes dans une journée"]
+true = 1
+false = 0
+lang = "fr"
+
+["les chiens peuvent ils manger des bananes"]
+true = 1
+false = 0
+lang = "fr"
+
+["pouvez vous tomber enceinte de precum"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment est mort bob marley"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien pèse un gallon d'eau"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment maigrir"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un entier"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment supprimer les acrochordons"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'argent vaut ma maison"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est né jésus"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un travail de jante"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi les chats ont peur des concombres"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps la marijuana reste t elle dans votre système"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment arrêter de tousser"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pays sont dans le monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une lettre d'accompagnement"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment sauver une vie paroles"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que la loi martiale"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment changer l'identifiant apple"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment s'aimer"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire du riz brun"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment bloquer votre numéro"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un blogueur"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser d'un mal de tête"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment gagner de l'argent à la maison"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien y a t il de pokémon"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand les bébés commencent ils à faire leurs dents"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des boulettes de viande"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment créer un blogspot"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment pirater le choc des clans"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps la cocaïne reste t elle dans votre système"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment vider le cache"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment arrêter la diarrhée"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a drake"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment désactiver le compte facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment inviter une fille à sortir"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le sexe oral"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser d'un orgelet"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de livres dans un kilogramme"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment arrêter de fumer"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie sos"]
+true = 0
+false = 1
+lang = "fr"
+
+["qu'est ce qu'une hernie"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'amazon prime"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rester éveillé"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire pousser vos cheveux plus vite"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un rêve lucide"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien coûte amazon prime"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand faire un test de grossesse"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps dure la grippe"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de mm dans un cm"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment dessiner une fleur"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire du pain"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des suçons"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand commence l'été"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi les chiens mangent de l'herbe"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment gagner de l'argent"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se maquiller"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment réciter le chapelet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner un dragon"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment surmonter une rupture"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des sushis"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment débloquer l'iphone 5"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de calories dois je manger par jour"]
+true = 1
+false = 0
+lang = "fr"
+
+["est aujourd'hui un jour férié"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment écrire un livre"]
+true = 1
+false = 0
+lang = "fr"
+
+["les chiens peuvent ils manger des pommes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire baisser le cholestérol"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se couper les cheveux soi même"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des beignets"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps faire bouillir un oeuf"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le cinco de mayo"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment renouveler un passeport"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps cuire le poulet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des mouches"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la pâte à modeler"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser d'un mal de gorge"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment prendre du poids rapidement"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des cernes"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui a gagné le superbowl"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment cuisiner des patates douces"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de mégaoctets dans un gigaoctet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rédiger un rapport"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du caramel"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de miles dans un kilomètre"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi les chats ronronnent"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel est mon animal spirituel"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir des followers sur instagram"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment mesurer la taille d'un soutien gorge"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner un visage"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un arc"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment supprimer un compte gmail"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment mettre un préservatif"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un gif"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rouler un blunt"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelles sont les causes de l'hypertension artérielle"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a sylvester stallone"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser du suçon"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps faire bouillir le maïs"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire des épis de maïs"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser d'un suçon"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment cela aurait dû se terminer"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment écrire une chanson"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand vais je mourir"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a kobe bryant"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des rêves lucides"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de minutes dans une journée"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la pression artérielle normale"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qui cause les calculs rénaux"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment trouver le pourcentage"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rédiger une lettre de démission"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge ai je l'air"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire du bacon au four"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir plus d'abonnés sur instagram"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner un cheval"]
+true = 1
+false = 0
+lang = "fr"
+
+["les chiens peuvent ils manger du raisin"]
+true = 1
+false = 0
+lang = "fr"
+
+["que sont les nombres premiers"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des fleurs en papier"]
+true = 1
+false = 0
+lang = "fr"
+
+["a quelle heure cible proche"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quoi ressemblera mon bébé"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'états aux états unis"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi bâillons nous"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire une pomme de terre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment couper un ananas"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner un chat"]
+true = 1
+false = 0
+lang = "fr"
+
+["quels films sont sortis"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du chocolat"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que l'illuminati"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du riz"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment arrêter le hoquet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger des chansons"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire un steak"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a blake shelton"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une capture d'écran sur un pc"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a jennifer aniston"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une bonne pipe"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a madone"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire pousser ses cheveux rapidement"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de secondes dans une année"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser de la cellulite"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment restaurer l'iphone"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quoi ressemblent les piqûres de punaises de lit"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie wyd"]
+true = 0
+false = 1
+lang = "fr"
+
+["combien de temps dure une intoxication alimentaire"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est mort michael jackson"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment utiliser le préservatif"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment flirter avec une fille"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment mesurer la taille d'une bague"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de centimètres sont dans un pouce"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un smoothie"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire pousser les cheveux plus vite"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une milf"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est ma position actuelle"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment tuer les punaises de lit"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un pain de viande"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment perdre du ventre rapidement"]
+true = 1
+false = 0
+lang = "fr"
+
+["de combien de calories ai je besoin"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment sucer la bite"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'os dans le corps humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du glaçage"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment activer les cookies"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment plier une pochette de costume"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment vendre sur ebay"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que l'informatique en nuage"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui m'a supprimé sur facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire la poitrine de poulet"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie og"]
+true = 0
+false = 1
+lang = "fr"
+
+["combien y a t il de tasses dans un gallon"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que le réseau playstation est en panne"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des cake pops"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment allez vous en français"]
+true = 1
+false = 0
+lang = "fr"
+
+["quels films passent"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a betty white"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la taille de donald trump"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du piment"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de musulmans dans le monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment cuire le saumon"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le salaire minimum"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi rêvons nous"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un synonyme"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie fml"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment avoir des abdos"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une préposition"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment être célibataire en ligne"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des macaronis au fromage"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quelle heure commence le super bowl"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une déclaration de thèse"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment augmenter le nombre de spermatozoïdes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des brownies"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien gagnent les chauffeurs uber"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi le poulet at il traversé la route"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand se termine l'heure d'été"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de google ma page d'accueil"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment porter le sari"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire des steaks"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de protéines dans un oeuf"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment annuler amazon prime"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment baiser une fille"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a kim kardashian"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser de la souris"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'oz dans un litre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment appliquer l'eye liner"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui a déplacé mon fromage"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment avoir un ventre plus plat"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel film dois je regarder"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand utiliser un point virgule"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du macaroni au fromage"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que pluton est une planète"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est le jour des élections"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien y a t il de continents"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du café"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand le titanic a t il coulé"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est le mont rushmore"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi suis je si fatigué"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie rsvp"]
+true = 0
+false = 1
+lang = "fr"
+
+["combien de calories dans une pomme"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner les yeux"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la différence entre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir un pack de six"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment passer à windows 10"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire du pain aux bananes"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quelle vitesse poussent les cheveux"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'hypothèque puis je me permettre"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a obama"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a tom brady"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment porter une écharpe"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps faites vous bouillir des oeufs"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que le père noël est réel"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment adresser une lettre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment perdre du poids en une semaine"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un avc"]
+true = 0
+false = 1
+lang = "fr"
+
+["qui a inventé l'ampoule"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est ton appendice"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir un ventre plat"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un vpn"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment déboucher une toilette"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment avoir confiance"]
+true = 1
+false = 0
+lang = "fr"
+
+["sur quel chaîne est abc"]
+true = 0
+false = 1
+lang = "fr"
+
+["qu'est ce que la maladie de lyme"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment gagner au powerball"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifient les emojis snapchat"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une comparaison"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment embrasser un mec"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment trouver l'aire d'un triangle"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire la queue de homard"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment utiliser les baguettes"]
+true = 1
+false = 0
+lang = "fr"
+
+["a quoi ressemblent les contractions"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment trouver l'aire d'un cercle"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment devenir mannequin"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire pour qu'une fille t'aime"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que la fête du travail"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment débloquer quelqu'un sur facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a eminem"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un robot"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se suicider"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser d'un bouton de fièvre"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps vivent les chats"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment avoir un petit ami"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment conduire une voiture"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a harrison ford"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire démarrer une voiture"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment utiliser apple pay"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment calculer l'écart type"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie sauvage"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le vendredi noir"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien y a t il d'océans"]
+true = 1
+false = 0
+lang = "fr"
+
+["que veut dire milf"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment devenir plus grand"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le changement climatique"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un blog"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner des mangas"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment attrape t on les punaises de lit"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qui est sans gluten"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment mettre à jour android"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un gâteau au fromage"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps la chienne est elle enceinte"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui est le premier ministre de l'inde"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps l'alcool persiste t il dans le corps"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi suis je toujours fatigué"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire des queues de homard"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui est le prochain célibataire"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dire je t'aime en espagnol"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des ballonnements"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment fonctionne paypal"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui est un joli petit menteur"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment gagner de l'argent sur youtube"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire sortir l'eau de votre oreille"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se faire des amis"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger une vidéo youtube"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est le premier jour de l'automne"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire des côtelettes de porc"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire le brocoli"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment enlever les ongles en acrylique"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment parler aux filles"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rédiger un business plan"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que l'adn représente"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire des spaghettis"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du houmous"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment nouer une écharpe"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a rihanna"]
+true = 1
+false = 0
+lang = "fr"
+
+["où pousse la fougère rouge"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quelle heure ferme costco"]
+true = 1
+false = 0
+lang = "fr"
+
+["que faites vous"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment nettoyer les pinceaux de maquillage"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de jours jusqu'à"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des souris"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un polygone"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des oeufs farcis"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des aphtes"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a snoop dogg"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des boutons de fièvre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment avoir des cheveux épais"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment éditer des fichiers pdf"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand la vie te donne des citrons"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des crêpes à partir de zéro"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment débloquer l'iphone 4"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est la journée des présidents"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des squats"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des poignées d'amour"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que l'annonce signifie"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment lire les paumes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment durer plus longtemps"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment effacer l'historique"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le jour du souvenir"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment contrôler la colère"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie ftw"]
+true = 0
+false = 1
+lang = "fr"
+
+["quand sont les oscars"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de lettres dans l'alphabet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire du bacon"]
+true = 1
+false = 0
+lang = "fr"
+
+["ce qui cause une pression artérielle basse"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la sauce alfredo"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment compléter le carré"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie ctfu"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment se débarrasser du double menton"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le diabète sucré"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment réinitialiser l'ipad"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie lml"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment créer un identifiant apple"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se doigter"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel age a barack obama"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire des pommes de terre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment cuisiner le chou"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment ouvrir les fichiers rar"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps cuire une poitrine de poulet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment embrasser un garçon"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que walmart est ouvert à noël"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que l'optimisation des moteurs de recherche"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'il y a à la télévision ce soir"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a kylie jenner"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des doubles mentons"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment enlever une tique"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment jouer au craps"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est ma position ip"]
+true = 0
+false = 1
+lang = "fr"
+
+["quand se produit l'implantation"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment jouer à uno"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un ordinateur"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment perdre du poids en 2 semaines"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment oublier quelqu'un"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie oml"]
+true = 0
+false = 1
+lang = "fr"
+
+["combien de temps les chiens sont enceintes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment gérer l'anxiété"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se garer en parallèle"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment vendre sur amazon"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment améliorer l'anglais"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est chuck norris"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel animal suis je"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment réinitialiser l'iphone en usine"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a l'univers"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des hémorroïdes"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand les bébés se retournent ils"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand commence l'hiver"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le big data"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment traiter une brûlure"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'heures dans une semaine"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir des abonnés instagram"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment manger une fille"]
+true = 1
+false = 0
+lang = "fr"
+
+["où est le foie"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire les lentilles"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quoi ressemblent les poux"]
+true = 1
+false = 0
+lang = "fr"
+
+["est ce que john cena est mort"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment avancer"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment trouver l'écart type"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner des dessins animés"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir des cheveux plus épais"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment changer de nom"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que je veux dire"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien mesure bruno mars"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la salsa"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que les médias sociaux"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est mort elvis"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui m'a désabonné instagram"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui a gagné danse avec les stars"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un isotope"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des pommes de terre rissolées"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment installer kodi"]
+true = 1
+false = 0
+lang = "fr"
+
+["où se trouve le foie chez l'humain"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que la maladie de parkinson"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment acheter une maison"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que ça veut dire"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien vaut donald trump"]
+true = 1
+false = 0
+lang = "fr"
+
+["dans quel état se trouve washington dc"]
+true = 0
+false = 1
+lang = "fr"
+
+["qu'est ce qu'un cv"]
+true = 0
+false = 1
+lang = "fr"
+
+["combien de millions dans un milliard"]
+true = 1
+false = 0
+lang = "fr"
+
+["quels sont mes signes du zodiaque"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui est le président de l'inde"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien coûte netflix"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que le commerce électronique"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de gigaoctets dans un téraoctet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire une poitrine de poulet"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la taille de justin bieber"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de go dans un téraoctet"]
+true = 0
+false = 1
+lang = "fr"
+
+["qu'est ce que le wifi signifie"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment sucer sa propre bite"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment tresser les cheveux"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a will smith"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel est le nom de cette chanson"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir un plus gros cul"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment jouer du piano"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment augmenter l'endurance"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment avoir une peau claire"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du pain à l'ail"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dormir plus vite"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un ion"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'oz dans une pinte"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire cuire des pâtes"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien y a t il de films star wars"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dire je t'aime en anglais"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire la courge musquée"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un chignon désordonné"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une télévision intelligente"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des friandises au riz croustillant"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'il y a à la télé ce soir"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se muscler"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps cela prend il"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir une plus grosse bite"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de kilogrammes dans une livre"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que l'appletv"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire cuire le bacon"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel jour est pâques"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire le chou"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment pirater pokemon go"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quoi ressemble l'herbe à puce"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire de la limonade"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment soustraire des fractions"]
+true = 1
+false = 0
+lang = "fr"
+
+["que se passe t il après la mort"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire les betteraves"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment nettoyer les chaussures en daim"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifient les rêves"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a nicki minaj"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment cuisiner les choux de bruxelles"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand la seconde guerre mondiale s'est elle terminée"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie yolo"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de pays en afrique"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment accorder une guitare"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment gagner à la loterie"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle taille fait taylor swift"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment michael jackson est mort"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rédiger un résumé"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la hauteur de la tour eiffel"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment acheter des actions"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se faire vomir"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment changer votre nom sur facebook"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une capture d'écran sur windows 10"]
+true = 0
+false = 1
+lang = "fr"
+
+["que signifie bmw"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment parler sale"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment supprimer les cernes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger whatsapp"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une branlette"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de cuillères à café dans une tasse"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une gorge profonde"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de semaines suis je"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment éditer un fichier pdf"]
+true = 0
+false = 1
+lang = "fr"
+
+["qu'est ce que l'écart type"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment cuisiner ça"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de miles font 5k"]
+true = 0
+false = 1
+lang = "fr"
+
+["qui est donald trump"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la taille du shaq"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment faire des cookies aux pépites de chocolat"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une fonction"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment éditer un pdf"]
+true = 0
+false = 1
+lang = "fr"
+
+["que dois je manger"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment avoir de plus gros seins"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des maux de tête"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire des patates douces"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi les chats pétrissent"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser de la mouche"]
+true = 1
+false = 0
+lang = "fr"
+
+["qui dirige le monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment acheter des bitcoins"]
+true = 1
+false = 0
+lang = "fr"
+
+["que veut dire ps"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment courir plus vite"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment télécharger des chansons de youtube"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment appliquer le fard à paupières"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire une demande de passeport"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie chèvre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des frites"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a mariah carey"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment obtenir des abonnés insta"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel est mon signe du zodiaque"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment donner un travail manuel"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment convertir word en pdf"]
+true = 0
+false = 1
+lang = "fr"
+
+["comment installer windows 10"]
+true = 0
+false = 1
+lang = "fr"
+
+["est il censé pleuvoir aujourd'hui"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des grains de beauté"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle est la voiture la plus rapide du monde"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment rooter un téléphone android"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment fumer de l'herbe"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a zendaya"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment construire un meilleur garçon"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment jouer au solitaire"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du savon"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand l'esclavage a t il pris fin"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des oeufs pochés"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment plier un drap housse"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment flirter avec un mec"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser des brûlures d'estomac"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quelle célébrité je ressemble"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment trouver la pente"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que l'optimisation de la recherche"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire du slime sans borax"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un milk shake"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment nettoyer l'argenterie"]
+true = 1
+false = 0
+lang = "fr"
+
+["les chiens peuvent ils manger des fraises"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand le soleil se couche"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment utiliser uber"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des bougies"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment manger santé"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire face à la dépression"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dresser un chiot"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment boucler ses cheveux"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire les crevettes"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire un jambon"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner un nez"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un orgasme"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une hypothèse"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment soulager le stress"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de temps dure un marathon"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que les ressources humaines"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment utiliser excel"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un sociopathe"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment apprendre à la propreté un chiot"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire le poulet"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment arrêter de se masturber"]
+true = 1
+false = 0
+lang = "fr"
+
+["sur quelle chaîne est le débat de ce soir"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire pousser de l'herbe"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment soigner un mal de gorge"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des boules de bain"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de calories dois je manger pour perdre du poids"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire sortir l'eau de l'oreille"]
+true = 1
+false = 0
+lang = "fr"
+
+["à quoi ressemble l'herpès"]
+true = 1
+false = 0
+lang = "fr"
+
+["quel âge a leonardo dicaprio"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire un glaçage"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment utiliser twitter"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment devenir célèbre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment éditer des vidéos"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment récupérer son ex"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment créer une chaîne youtube"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un bon vendredi"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment savoir si quelqu'un ment"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire cuire le brocoli à la vapeur"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment démarrer une conversation avec une fille"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dresser une table"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment dessiner un loup"]
+true = 1
+false = 0
+lang = "fr"
+
+["pourquoi devrais je vous embaucher"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire des macarons"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'une thèse"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment faire en sorte qu'un mec t'aime"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand internet a t il été inventé"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand est l'élection"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce qu'un serveur"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien gagne le président"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se constituer un crédit"]
+true = 1
+false = 0
+lang = "fr"
+
+["qu'est ce que les systèmes de planification des ressources d'entreprise"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment fumer un cigare"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien d'argent gagnent les youtubers"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment devenir agent immobilier"]
+true = 1
+false = 0
+lang = "fr"
+
+["quelle température est une fièvre"]
+true = 1
+false = 0
+lang = "fr"
+
+["comment se débarrasser d'un nez bouché"]
+true = 1
+false = 0
+lang = "fr"
+
+["combien de bières dans un fût"]
+true = 1
+false = 0
+lang = "fr"
+
+["quand les femmes ont elles obtenu le droit de vote"]
+true = 1
+false = 0
+lang = "fr"
+
+["que signifie 69"]
+true = 0
+false = 1
+lang = "fr"
